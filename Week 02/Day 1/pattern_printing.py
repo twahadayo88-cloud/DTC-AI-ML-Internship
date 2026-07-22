@@ -46,9 +46,9 @@
 
 #-----------------------
 # Pattern 6. Alphabet Pattern
-print("Pattern 6")
+#print("Pattern 6")
 
-for row in range(65, 70):
-    for col in range(65, row + 1):
-        print(chr(col), end=" ")
-    print()
+#for row in range(65, 70):
+    #for col in range(65, row + 1):
+        #print(chr(col), end=" ")
+    #print()

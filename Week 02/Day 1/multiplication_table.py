@@ -31,8 +31,8 @@
 #---------------------------
 # Practice 4. Tables from 1 to 5
 
-for table in range(1, 6):
-    print(f"\nTable of {table}")
+#for table in range(1, 6):
+    #print(f"\nTable of {table}")
 
-    for i in range(1, 11):
-        print(f"{table} x {i} = {table * i}")
+    #for i in range(1, 11):
+        #print(f"{table} x {i} = {table * i}")
