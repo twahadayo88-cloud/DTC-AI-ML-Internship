@@ -1,0 +1,167 @@
+[
+  {
+    "StudentID": 101,
+    "Name": "Ali",
+    "Gender": "Male",
+    "Age": 20,
+    "Department": "Computer Science",
+    "Semester": 4,
+    "City": "Islamabad",
+    "Marks": 85,
+    "Attendance": 92
+  },
+  {
+    "StudentID": 102,
+    "Name": "Ahmed",
+    "Gender": "Male",
+    "Age": 21,
+    "Department": "Software Engineering",
+    "Semester": 5,
+    "City": "Lahore",
+    "Marks": 90,
+    "Attendance": 88
+  },
+  {
+    "StudentID": 103,
+    "Name": "Sara",
+    "Gender": "Female",
+    "Age": 20,
+    "Department": "Computer Science",
+    "Semester": 4,
+    "City": "Karachi",
+    "Marks": 95,
+    "Attendance": 96
+  },
+  {
+    "StudentID": 104,
+    "Name": "Ayesha",
+    "Gender": "Female",
+    "Age": 22,
+    "Department": "Artificial Intelligence",
+    "Semester": 6,
+    "City": "Islamabad",
+    "Marks": 88,
+    "Attendance": 90
+  },
+  {
+    "StudentID": 105,
+    "Name": "Usman",
+    "Gender": "Male",
+    "Age": 21,
+    "Department": "Data Science",
+    "Semester": 5,
+    "City": "Rawalpindi",
+    "Marks": 78,
+    "Attendance": 80
+  },
+  {
+    "StudentID": 106,
+    "Name": "Hina",
+    "Gender": "Female",
+    "Age": 20,
+    "Department": "Computer Science",
+    "Semester": 4,
+    "City": "Lahore",
+    "Marks": 91,
+    "Attendance": 94
+  },
+  {
+    "StudentID": 107,
+    "Name": "Zain",
+    "Gender": "Male",
+    "Age": 23,
+    "Department": "Cyber Security",
+    "Semester": 7,
+    "City": "Karachi",
+    "Marks": 76,
+    "Attendance": 82
+  },
+  {
+    "StudentID": 108,
+    "Name": "Maryam",
+    "Gender": "Female",
+    "Age": 22,
+    "Department": "Software Engineering",
+    "Semester": 6,
+    "City": "Islamabad",
+    "Marks": 89,
+    "Attendance": 91
+  },
+  {
+    "StudentID": 109,
+    "Name": "Hamza",
+    "Gender": "Male",
+    "Age": 21,
+    "Department": "Artificial Intelligence",
+    "Semester": 5,
+    "City": "Lahore",
+    "Marks": 84,
+    "Attendance": 87
+  },
+  {
+    "StudentID": 110,
+    "Name": "Fatima",
+    "Gender": "Female",
+    "Age": 20,
+    "Department": "Data Science",
+    "Semester": 4,
+    "City": "Rawalpindi",
+    "Marks": 93,
+    "Attendance": 97
+  },
+  {
+    "StudentID": 111,
+    "Name": "Bilal",
+    "Gender": "Male",
+    "Age": 22,
+    "Department": "Computer Science",
+    "Semester": 6,
+    "City": "Islamabad",
+    "Marks": 81,
+    "Attendance": 86
+  },
+  {
+    "StudentID": 112,
+    "Name": "Noor",
+    "Gender": "Female",
+    "Age": 21,
+    "Department": "Cyber Security",
+    "Semester": 5,
+    "City": "Karachi",
+    "Marks": 87,
+    "Attendance": 89
+  },
+  {
+    "StudentID": 113,
+    "Name": "Daniyal",
+    "Gender": "Male",
+    "Age": 23,
+    "Department": "Software Engineering",
+    "Semester": 7,
+    "City": "Lahore",
+    "Marks": 74,
+    "Attendance": 78
+  },
+  {
+    "StudentID": 114,
+    "Name": "Iqra",
+    "Gender": "Female",
+    "Age": 22,
+    "Department": "Artificial Intelligence",
+    "Semester": 6,
+    "City": "Islamabad",
+    "Marks": 92,
+    "Attendance": 95
+  },
+  {
+    "StudentID": 115,
+    "Name": "Saad",
+    "Gender": "Male",
+    "Age": 20,
+    "Department": "Data Science",
+    "Semester": 4,
+    "City": "Rawalpindi",
+    "Marks": 79,
+    "Attendance": 84
+  }
+]

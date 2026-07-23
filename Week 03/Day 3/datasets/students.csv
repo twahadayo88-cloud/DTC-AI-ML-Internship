@@ -1,0 +1,16 @@
+StudentID,Name,Gender,Age,Department,Semester,City,Marks,Attendance
+101,Ali,Male,20,Computer Science,4,Islamabad,85,92
+102,Ahmed,Male,21,Software Engineering,5,Lahore,90,88
+103,Sara,Female,20,Computer Science,4,Karachi,95,96
+104,Ayesha,Female,22,Artificial Intelligence,6,Islamabad,88,90
+105,Usman,Male,21,Data Science,5,Rawalpindi,78,80
+106,Hina,Female,20,Computer Science,4,Lahore,91,94
+107,Zain,Male,23,Cyber Security,7,Karachi,76,82
+108,Maryam,Female,22,Software Engineering,6,Islamabad,89,91
+109,Hamza,Male,21,Artificial Intelligence,5,Lahore,84,87
+110,Fatima,Female,20,Data Science,4,Rawalpindi,93,97
+111,Bilal,Male,22,Computer Science,6,Islamabad,81,86
+112,Noor,Female,21,Cyber Security,5,Karachi,87,89
+113,Daniyal,Male,23,Software Engineering,7,Lahore,74,78
+114,Iqra,Female,22,Artificial Intelligence,6,Islamabad,92,95
+115,Saad,Male,20,Data Science,4,Rawalpindi,79,84

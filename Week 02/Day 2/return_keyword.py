@@ -28,13 +28,13 @@
 
 #-------------------- 
 # Practise 4 Even or Odd
-def even_or_odd(number):
-    if number % 2 == 0:
-        return "Even"
-    else:
-        return "Odd"
+#def even_or_odd(number):
+    #if number % 2 == 0:
+        #return "Even"
+    #else:
+        #return "Odd"
 
-result = even_or_odd(17)
+#result = even_or_odd(17)
 
-print(result) 
+#print(result) 
 
