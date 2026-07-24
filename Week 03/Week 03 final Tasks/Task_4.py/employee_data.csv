@@ -1,0 +1,9 @@
+Emp_ID,Full Name,Age,Salary,Joining_Date,Department
+101,Ali Khan,25,50000,2023-01-10,IT
+102,Sara Ahmed,,60000,2022-05-15,HR
+103,Usman Ali,30,,2021-08-20,Finance
+104,Hassan Raza,28,55000,2023-03-12,IT
+104,Hassan Raza,28,55000,2023-03-12,IT
+105,Ayesha Noor,twenty five,65000,2022-11-01,Marketing
+106,Zain Malik,35,70000,,Finance
+107,,27,48000,2023-07-19,HR

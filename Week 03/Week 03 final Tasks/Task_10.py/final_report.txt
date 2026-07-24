@@ -1,0 +1,42 @@
+
+
+BUSINESS INTELLIGENCE REPORT
+============================
+
+
+Total Sales:
+2296195.5903
+
+
+Total Profit:
+286241.42260000005
+
+
+Total Orders:
+9977
+
+
+Best Category:
+Technology
+
+
+Best Region:
+West
+
+
+Best Selling Sub Category:
+Phones
+
+
+
+Recommendations:
+
+1. Focus marketing on best performing category.
+
+2. Reduce discounts where profit is negative.
+
+3. Improve sales strategy in weak regions.
+
+4. Promote high profit products.
+
+
