@@ -160,7 +160,7 @@ print(encoder.classes_)"""
 
 #------------------------------------------------------------------------
 # Scaling
-import pandas as pd
+"""import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import StandardScaler
 
@@ -209,4 +209,72 @@ print(df)
 print(df.columns)
 
 print("\nMapping")
-print(encoder.classes_)
+print(encoder.classes_)"""
+
+#------------------------------------------------------------
+# Scaling
+# MinMaxScaler
+
+import pandas as pd
+from sklearn.preprocessing import LabelEncoder
+from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import MinMaxScaler
+
+
+df = pd.read_csv("Week 04/Day 2/Students.csv")
+
+print("Orignal shape")
+print(df.shape)
+
+print(df["Age"].mean())
+print(df["Marks"].mean())
+
+df["Age"] = df["Age"].fillna(df["Age"].mean())
+df["Marks"] = df["Marks"].fillna(df["Marks"].mean())
+
+
+
+#print(df["City"].mode())
+print(df["City"].mode())
+
+#df["City"] = df["City"].fillna(df["City"].mean())
+df["City"] = df["City"].fillna(df["City"].mode()[0])
+
+# Remove name
+df = df.drop("Name",axis=1)
+
+#Create encoder
+encoder = LabelEncoder()
+
+#Encode gender
+df["Gender"] = encoder.fit_transform(df["Gender"])
+df = pd.get_dummies(df,columns=["City"])
+print("\nAfter one hot encoding")
+print(df)
+
+"""#Create StandardScaler Objects
+scaler=StandardScaler()
+
+#scale age and marks
+df[["Age","Marks"]] = scaler.fit_transform(df[["Age","Marks"]])
+
+print("\nAfter Standard Scaling")
+print(df)"""
+
+#create object for minmaxscaler
+df_minmax = df.copy()
+minmax = MinMaxScaler()
+
+df_minmax[["Age", "Marks"]] = minmax.fit_transform(
+    df_minmax[["Age", "Marks"]]
+)
+pd.set_option("display.max_columns",None)
+print(df_minmax)
+
+#print(df)
+#pd.set_option("display.max_columns",None)
+#print(df)
+#print(df.columns)
+
+#print("\nMapping")
+#print(encoder.classes_)
