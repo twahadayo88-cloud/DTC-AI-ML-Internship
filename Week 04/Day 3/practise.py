@@ -56,3 +56,24 @@ print(df[["Marks", "Percentage"]])
 
 
 print(df)
+
+#-------------------------------------------------------
+# Feature Selection
+
+#selecting useful features
+
+selected_features = df[[
+    "Gender",
+    "Age",
+    "Marks",
+    "Grade",
+    "Result"
+]]
+
+print(selected_features)
+
+#removing unnecessary colums
+
+new_df = df.drop(columns=["Name","City"])
+
+print(new_df)
