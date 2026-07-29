@@ -1,4 +1,5 @@
 import pandas as pd
+import matplotlib.pyplot as plt
 
 df = pd.read_csv("Week 04/Day 3/students_data.csv")
 
@@ -77,3 +78,32 @@ print(selected_features)
 new_df = df.drop(columns=["Name","City"])
 
 print(new_df)
+
+# correlation analysis
+
+correlation = df[["Age","Marks","Percentage"]].corr()
+print(correlation)
+
+
+#making headmap diagram
+
+plt.figure(figsize=(6,4))
+plt.imshow(correlation)
+plt.colorbar()
+plt.xticks(range(len(correlation.columns)), correlation.columns)
+
+plt.yticks(range(len(correlation.columns)), correlation.columns)
+
+plt.title("Correlation Heatmap")
+
+plt.show()
+
+#save updated dataset
+df.to_csv("feature_engineered_students.csv", index=False)
+
+print("Dataset Saved Successfully!")
+
+#verify dataset saved or not
+saved_df = pd.read_csv("feature_engineered_students.csv")
+
+print(saved_df.head())

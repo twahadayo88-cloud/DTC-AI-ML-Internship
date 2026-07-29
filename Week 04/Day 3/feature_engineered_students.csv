@@ -1,0 +1,16 @@
+Name,Gender,Age,Marks,City,Age_Group,Result,Grade,Percentage
+Ali,Male,20.0,80.0,Lahore,Young,Pass,B,80.0
+Sara,Female,,90.0,Karachi,,Pass,A,90.0
+Ahmed,Male,22.0,,Islamabad,Adult,Fail,Missing,
+Zain,Male,21.0,75.0,,Adult,Pass,C,75.0
+Ayesha,Female,23.0,88.0,Lahore,Adult,Pass,B,88.0
+Usman,Male,,70.0,Karachi,,Pass,C,70.0
+Hina,Female,20.0,,Islamabad,Young,Fail,Missing,
+Bilal,Male,24.0,82.0,Lahore,Senior,Pass,B,82.0
+Fatima,Female,22.0,91.0,,Adult,Pass,A,91.0
+Hamza,Male,,76.0,Faisalabad,,Pass,C,76.0
+Noor,Female,21.0,89.0,Lahore,Adult,Pass,B,89.0
+Saad,Male,23.0,,Karachi,Adult,Fail,Missing,
+Iqra,Female,,95.0,Islamabad,,Pass,A,95.0
+Danish,Male,25.0,78.0,Lahore,Senior,Pass,C,78.0
+Areeba,Female,22.0,84.0,,Adult,Pass,B,84.0
