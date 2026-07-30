@@ -96,5 +96,38 @@ plt.title("Linear Regression")
 plt.xlabel("Hours studied")
 plt.ylabel("Marks")
 plt.legend()
-
+plt.savefig("linear_regression_graph.png")
 plt.show()
+
+
+#Decision tree presiction graph
+
+plt.figure(figsize=(8,5))
+plt.scatter(x,y, color="blue", label=("Orignal Data"))
+plt.plot(x,tree_model.predict(x), color="red", label="Decision Tree")
+
+plt.title("decision tree regressor")
+plt.xlabel("hours studied")
+plt.ylabel("Marks")
+plt.legend()
+plt.savefig("decision_tree_graph.png")
+plt.show()
+
+
+#score of both trees
+linear_score = linear_model.score(x_test, y_test)
+
+tree_score = tree_model.score(x_test,y_test)
+
+print("\n Linear regression score:", linear_score)
+print("Decision Tree Score:",tree_score)
+
+
+print("\n|----Final Comparison----|")
+
+if linear_score > tree_score:
+    print("Linear Regression performed better.")
+elif tree_score > linear_score:
+    print("Decision Tree performed better.")
+else:
+    print("Both models performed equally.")
