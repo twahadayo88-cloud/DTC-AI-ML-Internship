@@ -51,3 +51,20 @@ print(y_test.values)
 
 print("\npredicted marks linear regression:")
 print(linear_prediction)
+
+#second model Decision Tree regressor Training
+
+tree_model = DecisionTreeRegressor(random_state=42)
+
+#train decision tree
+tree_model.fit(x_train,y_train)
+
+print("\nDecision tree model traind successfully")
+
+
+#predicting by using decision tree
+
+tree_predictions = tree_model.predict(x_test)
+
+print("\nPredicting marks by decision tree")
+print(tree_predictions)
