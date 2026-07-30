@@ -81,3 +81,20 @@ comparison = pd.DataFrame({
 
 print("\n Comparison Table:")
 print(comparison)
+
+
+#Linear regression graph
+
+plt.figure(figsize=(8,5))
+
+plt.scatter(x,y, color="blue", label="Orignal data")
+
+#regression line
+plt.plot(x, linear_model.predict(x), color="red",label="Regression")
+
+plt.title("Linear Regression")
+plt.xlabel("Hours studied")
+plt.ylabel("Marks")
+plt.legend()
+
+plt.show()
