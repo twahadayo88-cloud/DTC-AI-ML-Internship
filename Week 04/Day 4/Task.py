@@ -68,3 +68,16 @@ tree_predictions = tree_model.predict(x_test)
 
 print("\nPredicting marks by decision tree")
 print(tree_predictions)
+
+
+#compare actual vs predicted values of both linear and decision 
+
+comparison = pd.DataFrame({
+    "Hours": x_test["Hours"].values,
+    "Actual Marks": y_test.values.flatten(),
+    "Linear Prediction":linear_prediction.flatten(),
+    "Tree Prediction": tree_predictions
+})
+
+print("\n Comparison Table:")
+print(comparison)
