@@ -85,8 +85,6 @@ correlation = df[["Age","Marks","Percentage"]].corr()
 print(correlation)
 
 
-#making headmap diagram
-
 plt.figure(figsize=(6,4))
 plt.imshow(correlation)
 plt.colorbar()
