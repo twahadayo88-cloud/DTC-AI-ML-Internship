@@ -54,3 +54,7 @@ print("MAE:",mae)"""
 
 mse = mean_squared_error(y_test, y_prediction)
 print("MSE:",mse)
+
+#calculating the root mean squared error
+rmse = np.sqrt(mse)
+print("RMSE:",rmse)
