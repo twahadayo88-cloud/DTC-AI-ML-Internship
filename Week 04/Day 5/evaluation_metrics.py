@@ -46,6 +46,11 @@ print("\n Predicted vlues")
 print(y_prediction)
 
 
-#calculating MAE (Mean Absolute error)
+"""#calculating MAE (Mean Absolute error)
 mae = mean_absolute_error(y_test, y_prediction)
-print("MAE:",mae)
+print("MAE:",mae)"""
+
+#calculating the mean squared error
+
+mse = mean_squared_error(y_test, y_prediction)
+print("MSE:",mse)
