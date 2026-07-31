@@ -58,3 +58,8 @@ print("MSE:",mse)
 #calculating the root mean squared error
 rmse = np.sqrt(mse)
 print("RMSE:",rmse)
+
+#calculating the R2 score
+
+r2 = r2_score(y_test,y_prediction)
+print("R2:", r2)
