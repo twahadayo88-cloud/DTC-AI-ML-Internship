@@ -61,3 +61,11 @@ print()
 
 print("Decision Tree Predicted values")
 print(dt_predictions)
+
+dt_accuracy = accuracy_score(y_test, dt_predictions)
+print("Decision Tree Accuracy:", dt_accuracy * 100, "%")
+
+#-----------------------------------------
+print("\n------Model Comparison-----------")
+print("KNN Accuracy:", knn_accuracy * 100, "%")
+print("Decision Tree Accuracy:", dt_accuracy * 100, "%")
