@@ -48,3 +48,16 @@ knn_accuracy = accuracy_score(y_test,knn_predictions)
 print("KNN Accuracy:",knn_accuracy * 100, "%")
 
 #----------------------------------------------------------
+
+dt = DecisionTreeClassifier(random_state=42)
+dt.fit(x_train, y_train)
+
+dt_predictions = dt.predict(x_test)
+
+print("Actual Values")
+print(y_test)
+
+print()
+
+print("Decision Tree Predicted values")
+print(dt_predictions)
