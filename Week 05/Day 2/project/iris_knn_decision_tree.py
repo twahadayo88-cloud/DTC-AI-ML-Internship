@@ -12,3 +12,39 @@ print(data.info())
 print(data.describe())
 print(data.isnull().sum())
 print(data.columns)
+
+print(data.drop(columns=["Id", "Species"]))
+
+x = data[[
+    "SepalLengthCm", 
+    "SepalWidthCm", 
+    "PetalLengthCm", 
+    "PetalWidthCm"
+    ]]
+y =data["Species"]
+
+x_train, x_test, y_train, y_test = train_test_split(
+    x,
+    y,
+    test_size=0.2,
+    random_state=42
+)
+
+knn = KNeighborsClassifier(n_neighbors=3)
+knn.fit(x_train, y_train)
+knn_predictions = knn.predict(x_test)
+
+print("Actusal Values")
+print(y_test)
+
+print()
+
+print("Predicted Values")
+print(knn_predictions)
+
+
+knn_accuracy = accuracy_score(y_test,knn_predictions)
+
+print("KNN Accuracy:",knn_accuracy * 100, "%")
+
+#----------------------------------------------------------
