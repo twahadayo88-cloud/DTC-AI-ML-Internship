@@ -48,3 +48,12 @@ feature_importance = pd.DataFrame({
 })
 
 print(feature_importance)
+
+# Sorting the important features
+
+feature_importance = feature_importance.sort_values(
+    by = "Importance",
+    ascending=False
+)
+
+print(feature_importance)
