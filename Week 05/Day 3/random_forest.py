@@ -49,11 +49,18 @@ feature_importance = pd.DataFrame({
 
 print(feature_importance)
 
-# Sorting the important features
+#plot graph
 
-feature_importance = feature_importance.sort_values(
-    by = "Importance",
-    ascending=False
+plt.figure(figsize=(8,5))
+
+plt.bar(
+    feature_importance["Feature"],
+    feature_importance["Importance"]
 )
 
-print(feature_importance)
+plt.title("Feature Importance")
+plt.xlabel("Feature")
+plt.ylabel("Importance")
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.show()
