@@ -30,7 +30,7 @@ df = df.drop_duplicates()
 
 df = df.dropna()
 
-# STEP 6: CONVERT DATE
+# STEP 6 CONVERT DATE
 
 df["Date"] = pd.to_datetime(df["Date"])
 
@@ -227,7 +227,7 @@ plt.savefig("scatter_plot.png")
 
 plt.show()
 
-# CHART 4 : HISTOGRAM
+# CHART 4 HISTOGRAM
 import matplotlib.pyplot as plt
 
 plt.figure(figsize=(8,5))
@@ -247,7 +247,7 @@ plt.savefig("histogram.png")
 
 plt.show()
 
-# CHART 5 : PIE CHART
+# CHART 5 PIE CHART
 
 category_sales = df.groupby("Category")["Sales"].sum()
 
