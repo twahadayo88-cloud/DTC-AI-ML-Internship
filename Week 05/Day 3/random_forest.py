@@ -47,6 +47,12 @@ feature_importance = pd.DataFrame({
     "Importance": importance
 })
 
+# Sort in descending order
+feature_importance = feature_importance.sort_values(
+    by="Importance",
+    ascending=False
+)
+
 print(feature_importance)
 
 #plot graph
