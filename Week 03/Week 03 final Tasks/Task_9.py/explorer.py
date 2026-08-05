@@ -15,7 +15,7 @@ def menu():
     print("7. Charts")
     print("8. Exit")
 
-    print("===================================")
+    print("------------------------")
 
 # STEP : MAIN LOOP
 
