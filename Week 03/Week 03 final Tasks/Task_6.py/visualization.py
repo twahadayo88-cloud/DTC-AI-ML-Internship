@@ -7,7 +7,7 @@ df=pd.read_csv("Task_6.py/sales_data.csv")
 print(df)
 
 #STEP 2 LINE CHART
-"""plt.figure(figsize=(8,5))
+plt.figure(figsize=(8,5))
 
 plt.plot(df["Product"], df["Sales"], marker="o")
 
@@ -21,11 +21,11 @@ plt.grid(True)
 
 plt.savefig("line_chart.png")
 
-plt.show()"""
+plt.show()
 
 #STEP 3 BAR CHART
 
-"""plt.figure(figsize=(8,5))
+plt.figure(figsize=(8,5))
 
 plt.bar(df["Product"], df["Sales"])
 
@@ -39,11 +39,11 @@ plt.grid(True)
 
 plt.savefig("bar_chart.png")
 
-plt.show()"""
+plt.show()
 
 #STEP 4 SCATTER PLOT
 
-"""plt.figure(figsize=(8,5))
+plt.figure(figsize=(8,5))
 
 plt.scatter(df["Price"], df["Sales"])
 
@@ -57,7 +57,7 @@ plt.grid(True)
 
 plt.savefig("scatter_plot.png")
 
-plt.show()"""
+plt.show()
 
 #STEP 5 HISTOGRAM
 
