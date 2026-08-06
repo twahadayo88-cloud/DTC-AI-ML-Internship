@@ -41,3 +41,26 @@ model = RandomForestClassifier(
 model.fit(x_train, y_train)
 y_predictions = model.predict(x_test)
 print(y_predictions)
+
+cm = confusion_matrix(
+    y_test,
+    y_predictions
+)
+
+print(cm)
+
+#visualize confusion matrix
+
+plt.figure(figsize=(6,4))
+
+sns.heatmap(
+    cm,
+    annot=True,
+    fmt="d",
+    cmap="Blues"
+)
+
+plt.xlabel("Predicted")
+plt.ylabel("Actual")
+
+plt.show()
