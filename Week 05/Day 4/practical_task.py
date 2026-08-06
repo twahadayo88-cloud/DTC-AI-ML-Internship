@@ -64,3 +64,62 @@ plt.xlabel("Predicted")
 plt.ylabel("Actual")
 
 plt.show()
+
+#Accuracy
+
+accuracy = accuracy_score(
+    y_test,
+    y_predictions
+)
+
+print("Accuracy:", accuracy)
+
+#precision
+
+precision = precision_score(
+    y_test,
+    y_predictions
+)
+
+print("Precision:", precision)
+
+#recall
+
+recall = recall_score(
+    y_test,
+    y_predictions
+)
+
+
+print("Recall:", recall)
+
+#F1 Score:
+
+f1 = f1_score(
+    y_test,
+    y_predictions
+)
+
+
+print("F1 Score:", f1)
+
+#making table for comparison
+results = pd.DataFrame({
+
+    "Metric":[
+        "Accuracy",
+        "Precision",
+        "Recall",
+        "F1 Score"
+    ],
+
+    "Score":[
+        accuracy,
+        precision,
+        recall,
+        f1
+    ]
+})
+
+
+print(results)
