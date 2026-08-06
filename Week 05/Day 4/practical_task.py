@@ -7,8 +7,7 @@ from sklearn.metrics import (
     accuracy_score,
     precision_score,
     recall_score,
-    f1_score,
-    classification_report
+    f1_score
 )
 
 import matplotlib.pyplot as plt
@@ -64,8 +63,12 @@ sns.heatmap(
 
 plt.xlabel("Predicted")
 plt.ylabel("Actual")
+plt.title("Confusion Matrix")
+
+plt.savefig("confusion_matrix.png", dpi=300, bbox_inches="tight")
 
 plt.show()
+plt.close()
 
 #Accuracy
 
@@ -165,4 +168,7 @@ sns.barplot(
 
 plt.title("Feature Importance in Diabetes Prediction")
 
+plt.savefig("feature_importance.png", dpi=300, bbox_inches="tight")
+
 plt.show()
+plt.close()
