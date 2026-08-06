@@ -13,3 +13,31 @@ from sklearn.metrics import (
 
 import matplotlib.pyplot as plt
 import seaborn as sns
+
+data = pd.read_csv("Week 05/Day 4/diabetes.csv")
+print(data.head())
+print(data.info())
+print(data.columns)
+print(data.isnull().sum())
+print(data.describe())
+print(data.shape)
+
+x = data.drop("Outcome", axis=1)
+y = data["Outcome"]
+
+
+x_train, x_test, y_train, y_test = train_test_split(
+    x,
+    y,
+    test_size=0.25,
+    random_state=42
+)
+model = RandomForestClassifier(
+    n_estimators=100,
+    random_state=42
+)
+
+
+model.fit(x_train, y_train)
+y_predictions = model.predict(x_test)
+print(y_predictions)
