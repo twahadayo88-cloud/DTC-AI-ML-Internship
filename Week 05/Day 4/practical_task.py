@@ -38,6 +38,8 @@ model = RandomForestClassifier(
 )
 
 
+
+
 model.fit(x_train, y_train)
 y_predictions = model.predict(x_test)
 print(y_predictions)
@@ -123,3 +125,44 @@ results = pd.DataFrame({
 
 
 print(results)
+
+# Feature Importance
+
+importance = model.feature_importances_
+
+feature_importance = pd.DataFrame({
+
+    "Feature": x.columns,
+
+    "Importance": importance
+
+})
+
+
+print(feature_importance)
+
+
+#sorting the feature importance
+
+feature_importance = feature_importance.sort_values(
+    by="Importance",
+    ascending=False
+)
+
+
+print(feature_importance)
+
+#Making graph
+plt.figure(figsize=(8,5))
+
+
+sns.barplot(
+    x="Importance",
+    y="Feature",
+    data=feature_importance
+)
+
+
+plt.title("Feature Importance in Diabetes Prediction")
+
+plt.show()
