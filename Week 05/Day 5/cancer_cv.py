@@ -176,7 +176,7 @@ for fold, (train_index, validation_index) in enumerate(
 
 
 #--------------------------------------------------------
-"""import pandas as pd
+import pandas as pd
 
 from sklearn.model_selection import train_test_split
 from sklearn.model_selection import cross_val_score
@@ -193,10 +193,7 @@ from sklearn.metrics import (
     classification_report
 )
 
-
-# ============================================================
 # 1. LOAD DATASET
-# ============================================================
 
 data = pd.read_csv(
     "Week 05/Day 5/cancer_imbalanced_1000.csv"
@@ -204,62 +201,34 @@ data = pd.read_csv(
 
 print("\nData Set:")
 print(data.head())
-
-
 print("\nDataset Information:")
 print(data.info())
-
-
 print("\nDataset Shape:")
 print(data.shape)
-
-
 print("\nMissing Values:")
 print(data.isnull().sum())
-
-
 print("\nStatistical Summary:")
 print(data.describe())
-
-
 print("\nCancer Class Distribution:")
 print(data["Cancer"].value_counts())
-
-
 print("\nCancer Class Percentage:")
 print(
     data["Cancer"].value_counts(normalize=True) * 100
 )
 
-
-# ============================================================
 # 2. FEATURES AND TARGET
-# ============================================================
-
 x = data.drop("Cancer", axis=1)
 y = data["Cancer"]
-
-
 print("\nFeatures:")
 print(x.head())
-
-
 print("\nTarget:")
 print(y.head())
-
-
 print("\nX Shape:")
 print(x.shape)
-
-
 print("\ny Shape:")
 print(y.shape)
 
-
-# ============================================================
 # 3. TRAIN / TEST SPLIT
-# ============================================================
-
 x_train, x_test, y_train, y_test = train_test_split(
     x,
     y,
@@ -267,47 +236,29 @@ x_train, x_test, y_train, y_test = train_test_split(
     random_state=42,
     stratify=y
 )
-
-
 print("\nTraining Data Shape:")
 print(x_train.shape)
-
 print("\nTesting Data Shape:")
 print(x_test.shape)
-
-
 print("\nTraining Class Distribution:")
 print(y_train.value_counts())
-
-
 print("\nTesting Class Distribution:")
 print(y_test.value_counts())
 
-
-# ============================================================
 # 4. BASELINE RANDOM FOREST MODEL
-# ============================================================
 
 model = RandomForestClassifier(
     random_state=42
 )
-
-
 model.fit(
     x_train,
     y_train
 )
-
-
 y_prediction = model.predict(
     x_test
 )
 
-
-# ============================================================
 # 5. BASELINE TEST METRICS
-# ============================================================
-
 accuracy = accuracy_score(
     y_test,
     y_prediction
@@ -315,8 +266,6 @@ accuracy = accuracy_score(
 
 print("\nTest Accuracy:")
 print(accuracy)
-
-
 print("\nPrecision:")
 print(
     precision_score(
@@ -325,8 +274,6 @@ print(
         zero_division=0
     )
 )
-
-
 print("\nRecall:")
 print(
     recall_score(
@@ -335,8 +282,6 @@ print(
         zero_division=0
     )
 )
-
-
 print("\nF1 Score:")
 print(
     f1_score(
@@ -346,11 +291,7 @@ print(
     )
 )
 
-
-# ============================================================
 # 6. CONFUSION MATRIX
-# ============================================================
-
 cm = confusion_matrix(
     y_test,
     y_prediction
@@ -359,11 +300,7 @@ cm = confusion_matrix(
 print("\nConfusion Matrix:")
 print(cm)
 
-
-# ============================================================
 # 7. CLASSIFICATION REPORT
-# ============================================================
-
 print("\nClassification Report:")
 
 print(
@@ -374,11 +311,7 @@ print(
     )
 )
 
-
-# ============================================================
 # 8. 5-FOLD CROSS VALIDATION - ACCURACY
-# ============================================================
-
 cv_score = cross_val_score(
     model,
     x_train,
@@ -386,24 +319,14 @@ cv_score = cross_val_score(
     cv=5,
     scoring="accuracy"
 )
-
-
 print("\nCross Validation Accuracy Scores:")
 print(cv_score)
-
-
 print("\nMean Cross Validation Accuracy:")
 print(cv_score.mean())
-
-
 print("\nAccuracy Standard Deviation:")
 print(cv_score.std())
 
-
-# ============================================================
 # 9. 5-FOLD CROSS VALIDATION - RECALL
-# ============================================================
-
 cv_recall = cross_val_score(
     model,
     x_train,
@@ -412,23 +335,14 @@ cv_recall = cross_val_score(
     scoring="recall"
 )
 
-
 print("\nCross Validation Recall Scores:")
 print(cv_recall)
-
-
 print("\nMean Cross Validation Recall:")
 print(cv_recall.mean())
-
-
 print("\nRecall Standard Deviation:")
 print(cv_recall.std())
 
-
-# ============================================================
 # 10. 5-FOLD CROSS VALIDATION - PRECISION
-# ============================================================
-
 cv_precision = cross_val_score(
     model,
     x_train,
@@ -436,24 +350,14 @@ cv_precision = cross_val_score(
     cv=5,
     scoring="precision"
 )
-
-
 print("\nCross Validation Precision Scores:")
 print(cv_precision)
-
-
 print("\nMean Cross Validation Precision:")
 print(cv_precision.mean())
-
-
 print("\nPrecision Standard Deviation:")
 print(cv_precision.std())
 
-
-# ============================================================
 # 11. 5-FOLD CROSS VALIDATION - F1
-# ============================================================
-
 cv_f1 = cross_val_score(
     model,
     x_train,
@@ -461,101 +365,63 @@ cv_f1 = cross_val_score(
     cv=5,
     scoring="f1"
 )
-
-
 print("\nCross Validation F1 Scores:")
 print(cv_f1)
-
-
 print("\nMean Cross Validation F1:")
 print(cv_f1.mean())
-
-
 print("\nF1 Standard Deviation:")
 print(cv_f1.std())
 
-
-# ============================================================
 # 12. MANUAL STRATIFIED K-FOLD
-# ============================================================
-
 skf = StratifiedKFold(
     n_splits=5,
     shuffle=True,
     random_state=42
 )
-
-
 fold_accuracies = []
 fold_precisions = []
 fold_recalls = []
 fold_f1_scores = []
-
-
 for fold, (train_index, validation_index) in enumerate(
     skf.split(x_train, y_train),
     start=1
 ):
 
-    print("\n===================================")
+    
     print(f"FOLD {fold}")
-    print("===================================")
-
-
-    # --------------------------------------------------------
     # Get training and validation data
-    # --------------------------------------------------------
-
     X_fold_train = x_train.iloc[train_index]
     X_fold_validation = x_train.iloc[validation_index]
-
     y_fold_train = y_train.iloc[train_index]
     y_fold_validation = y_train.iloc[validation_index]
 
 
-    # --------------------------------------------------------
     # Show class distribution
-    # --------------------------------------------------------
-
     print("\nTraining Class Distribution:")
     print(y_fold_train.value_counts())
-
-
     print("\nValidation Class Distribution:")
     print(y_fold_validation.value_counts())
 
-
-    # --------------------------------------------------------
     # Create a NEW model for this fold
-    # --------------------------------------------------------
 
     fold_model = RandomForestClassifier(
         random_state=42
     )
 
-
-    # --------------------------------------------------------
     # Train model
-    # --------------------------------------------------------
-
     fold_model.fit(
         X_fold_train,
         y_fold_train
     )
 
 
-    # --------------------------------------------------------
-    # Make validation predictions
-    # --------------------------------------------------------
 
+    # Make validation predictions
     fold_prediction = fold_model.predict(
         X_fold_validation
     )
 
-
-    # --------------------------------------------------------
     # Calculate metrics
-    # --------------------------------------------------------
 
     fold_accuracy = accuracy_score(
         y_fold_validation,
@@ -584,9 +450,8 @@ for fold, (train_index, validation_index) in enumerate(
     )
 
 
-    # --------------------------------------------------------
     # Store results
-    # --------------------------------------------------------
+
 
     fold_accuracies.append(
         fold_accuracy
@@ -605,9 +470,8 @@ for fold, (train_index, validation_index) in enumerate(
     )
 
 
-    # --------------------------------------------------------
     # Print fold results
-    # --------------------------------------------------------
+
 
     print("\nFold Accuracy:")
     print(fold_accuracy)
@@ -625,14 +489,12 @@ for fold, (train_index, validation_index) in enumerate(
     print(fold_f1)
 
 
-# ============================================================
 # 13. MANUAL CROSS VALIDATION SUMMARY
-# ============================================================
+
 
 print("\n")
-print("==========================================")
+
 print("MANUAL CROSS VALIDATION SUMMARY")
-print("==========================================")
 
 
 print("\nAll Fold Accuracies:")
@@ -679,9 +541,8 @@ print(
 )
 
 
-# ============================================================
+
 # 14. BALANCED RANDOM FOREST
-# ============================================================
 
 balanced_model = RandomForestClassifier(
     random_state=42,
@@ -689,9 +550,7 @@ balanced_model = RandomForestClassifier(
 )
 
 
-# ============================================================
 # 15. BALANCED MODEL - 5 FOLD CROSS VALIDATION
-# ============================================================
 
 balanced_accuracy = cross_val_score(
     balanced_model,
@@ -730,9 +589,7 @@ balanced_f1 = cross_val_score(
 
 
 print("\n")
-print("==========================================")
 print("BALANCED MODEL CROSS VALIDATION")
-print("==========================================")
 
 
 print("\nBalanced Accuracy Scores:")
@@ -763,9 +620,7 @@ print("\nMean Balanced F1:")
 print(balanced_f1.mean())
 
 
-# ============================================================
 # 16. FINAL MODEL
-# ============================================================
 
 final_model = RandomForestClassifier(
     random_state=42,
@@ -781,9 +636,7 @@ final_model.fit(
 )
 
 
-# ============================================================
 # 17. FINAL MODEL ON UNSEEN TEST DATA
-# ============================================================
 
 test_prediction = final_model.predict(
     x_test
@@ -791,9 +644,7 @@ test_prediction = final_model.predict(
 
 
 print("\n")
-print("==========================================")
 print("FINAL MODEL - UNSEEN TEST DATA")
-print("==========================================")
 
 
 final_accuracy = accuracy_score(
@@ -839,9 +690,7 @@ print("\nFinal Test F1 Score:")
 print(final_f1)
 
 
-# ============================================================
 # 18. FINAL CONFUSION MATRIX
-# ============================================================
 
 final_cm = confusion_matrix(
     y_test,
@@ -853,9 +702,7 @@ print("\nFinal Confusion Matrix:")
 print(final_cm)
 
 
-# ============================================================
 # 19. FINAL CLASSIFICATION REPORT
-# ============================================================
 
 print("\nFinal Classification Report:")
 
@@ -868,9 +715,7 @@ print(
 )
 
 
-# ============================================================
 # 20. ACTUAL VS PREDICTED CANCER CASES
-# ============================================================
 
 print("\nActual Cancer Cases in Test Data:")
 print(y_test.sum())
@@ -880,9 +725,7 @@ print("\nPredicted Cancer Cases:")
 print(test_prediction.sum())
 
 
-# ============================================================
 # 21. COMPLETELY NEW PATIENT
-# ============================================================
 
 new_patient = pd.DataFrame([{
     "Age": 58,
@@ -899,9 +742,7 @@ new_prediction = final_model.predict(
 
 
 print("\n")
-print("==========================================")
 print("NEW PATIENT PREDICTION")
-print("==========================================")
 
 
 print("\nNew Patient Data:")
@@ -918,4 +759,4 @@ if new_prediction[0] == 1:
 
 else:
 
-    print("\nPrediction: No Cancer")"""
+    print("\nPrediction: No Cancer")
