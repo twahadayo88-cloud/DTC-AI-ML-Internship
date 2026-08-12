@@ -49,3 +49,18 @@ pca_data["target"] = y.values
 print(pca_data)
 
 #now making the graph of pca scatter plot
+plt.scatter(
+    pca_data["PC1"],
+    pca_data["PC2"],
+    c=pca_data["target"]
+)
+plt.xlabel("Principal Component 1")
+plt.ylabel("Principal Component 2")
+plt.title("PCA(Wine Dataset)")
+plt.savefig(
+    "pca_wine_scatter.png",
+    dpi=300,
+    bbox_inches="tight"
+)
+
+plt.show()
