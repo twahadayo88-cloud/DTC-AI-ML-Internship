@@ -1,0 +1,1201 @@
+age,income,experience_years,education,city,job_type,credit_score,monthly_spending,loan_amount,loan_approved
+56,42622.0,37,Bachelor,Karachi,Freelance,577.0,1307.0,3388422.0,1
+46,76367.0,25,Bachelor,Islamabad,Business,592.0,3458.0,4312988.0,1
+32,47420.0,12,Master,Karachi,Private,626.0,2365.0,1882051.0,1
+60,61380.0,36,Master,Islamabad,Freelance,686.0,1673.0,2509384.0,1
+25,65015.0,0,High School,Islamabad,Government,635.0,1566.0,197437.0,1
+38,68482.0,16,Bachelor,Lahore,Business,726.0,3476.0,3152461.0,1
+56,50094.0,33,Master,Karachi,Private,752.0,1628.0,2498606.0,0
+36,68284.0,9,Bachelor,Islamabad,Freelance,722.0,2677.0,1364460.0,0
+40,47784.0,21,Master,Lahore,Government,793.0,1568.0,2913463.0,1
+28,79834.0,8,Bachelor,Rawalpindi,Private,709.0,1998.0,1570972.0,1
+28,62473.0,8,Bachelor,Lahore,Government,595.0,2529.0,1387777.0,0
+41,68411.0,15,High School,Lahore,Private,775.0,2623.0,2227801.0,1
+53,121538.0,29,Bachelor,Islamabad,Government,638.0,3354.0,842981.0,1
+57,40644.0,32,Bachelor,Peshawar,Business,744.0,1459.0,2719462.0,1
+41,95549.0,14,Bachelor,Peshawar,Government,790.0,4529.0,849609.0,1
+20,20000.0,0,Master,Peshawar,Government,712.0,810.0,854951.0,0
+39,20000.0,16,Master,Lahore,Government,575.0,481.0,981279.0,0
+19,37706.0,0,Bachelor,Islamabad,Private,616.0,1474.0,2483550.0,1
+41,39094.0,23,Master,Karachi,Private,773.0,1730.0,1244902.0,1
+61,69481.0,36,Bachelor,Lahore,Government,668.0,3283.0,586804.0,1
+47,71377.0,23,Bachelor,Lahore,Private,686.0,2984.0,1254888.0,1
+55,59394.0,36,Master,Islamabad,Private,733.0,1540.0,1771162.0,0
+19,61703.0,0,Bachelor,Rawalpindi,Government,729.0,2746.0,737125.0,1
+38,76611.0,16,Bachelor,Lahore,Private,700.0,3326.0,763487.0,1
+50,83331.0,26,High School,Rawalpindi,Private,665.0,1804.0,3700167.0,0
+29,35816.0,8,Bachelor,Rawalpindi,Government,658.0,1238.0,1025491.0,0
+39,57038.0,17,Master,Peshawar,Private,740.0,1821.0,1509262.0,0
+61,63469.0,36,Master,Islamabad,Business,719.0,2739.0,1469487.0,1
+42,75677.0,24,Master,Rawalpindi,Business,662.0,2122.0,1420779.0,1
+44,48001.0,26,Master,Islamabad,Freelance,756.0,1945.0,2359212.0,1
+59,63037.0,38,Bachelor,Peshawar,Private,671.0,3232.0,2653329.0,1
+45,65660.0,25,Bachelor,Islamabad,Freelance,620.0,3114.0,1524641.0,0
+33,49502.0,6,High School,Lahore,Freelance,627.0,2552.0,687170.0,0
+32,48977.0,13,Bachelor,Rawalpindi,Freelance,611.0,2618.0,2946996.0,0
+64,67172.0,44,Bachelor,Islamabad,Private,661.0,1423.0,1714193.0,1
+61,62132.0,43,PhD,Karachi,Government,766.0,2584.0,3357290.0,1
+20,76011.0,2,Bachelor,Islamabad,Freelance,624.0,2630.0,100000.0,1
+54,41828.0,31,Bachelor,Rawalpindi,Government,693.0,2070.0,1975863.0,0
+24,57285.0,2,Bachelor,Peshawar,Government,634.0,1674.0,3526746.0,1
+38,59957.0,13,Bachelor,Peshawar,Government,662.0,3210.0,1482062.0,0
+26,82905.0,7,Master,Rawalpindi,Government,574.0,3423.0,1597056.0,0
+56,44311.0,35,Bachelor,Lahore,Private,665.0,2095.0,2065961.0,1
+35,70162.0,10,Bachelor,Lahore,Government,666.0,1662.0,1297084.0,0
+21,,0,Master,Peshawar,Private,718.0,1902.0,1519135.0,0
+42,101221.0,24,Bachelor,Peshawar,Private,696.0,4668.0,1495966.0,1
+31,42844.0,10,Bachelor,Rawalpindi,Private,596.0,924.0,1235321.0,0
+26,50541.0,8,Master,Lahore,Government,756.0,2429.0,2905971.0,1
+43,44378.0,24,Master,Peshawar,Private,695.0,945.0,2214970.0,1
+19,28265.0,0,High School,Lahore,Freelance,694.0,1208.0,2025565.0,1
+37,103823.0,12,Master,Peshawar,Freelance,679.0,3426.0,2527714.0,1
+45,37687.0,20,Master,Islamabad,Private,644.0,1553.0,1562080.0,1
+64,47041.0,44,Bachelor,Karachi,Private,695.0,2071.0,1103217.0,1
+24,93947.0,3,PhD,Islamabad,Private,713.0,3030.0,1257638.0,1
+61,,34,Master,Peshawar,Business,558.0,646.0,1801605.0,1
+25,81640.0,2,Master,Karachi,Government,642.0,1890.0,846709.0,0
+64,33913.0,37,Master,Karachi,Government,662.0,1372.0,1349765.0,1
+52,92427.0,32,High School,Peshawar,Private,698.0,3530.0,1335495.0,1
+31,20000.0,12,Bachelor,Peshawar,Government,764.0,911.0,3712101.0,0
+34,26424.0,11,Bachelor,Lahore,Business,626.0,999.0,100000.0,1
+53,53012.0,31,Bachelor,Peshawar,Freelance,,1851.0,1638342.0,1
+57,86380.0,30,Bachelor,Rawalpindi,Government,644.0,2946.0,3353124.0,1
+21,64319.0,0,Master,Peshawar,Private,624.0,1397.0,1909660.0,0
+19,57614.0,0,Master,Rawalpindi,Private,656.0,1845.0,2478076.0,0
+23,94613.0,1,Bachelor,Peshawar,Private,734.0,5049.0,1889844.0,1
+59,112415.0,32,Master,Lahore,Private,606.0,5615.0,1199400.0,1
+21,79790.0,0,Master,Rawalpindi,Private,710.0,2538.0,100000.0,1
+46,51297.0,26,Bachelor,,Private,561.0,2074.0,1984910.0,1
+35,55801.0,11,Bachelor,Rawalpindi,Private,641.0,2739.0,1101954.0,1
+43,36654.0,20,Bachelor,Lahore,Business,657.0,1303.0,1079698.0,0
+61,67218.0,40,Master,Rawalpindi,Government,797.0,1441.0,1350911.0,1
+51,29149.0,32,Bachelor,Peshawar,Freelance,661.0,680.0,3370375.0,1
+27,77141.0,1,Master,Peshawar,Freelance,526.0,2920.0,3964354.0,0
+53,109123.0,35,High School,Lahore,Private,540.0,5800.0,1995487.0,0
+31,80787.0,10,Master,Karachi,Freelance,682.0,3550.0,1381709.0,1
+48,54679.0,30,Master,Peshawar,Private,723.0,1268.0,740496.0,1
+32,76593.0,9,Master,Islamabad,Government,706.0,2079.0,2221686.0,1
+25,100652.0,4,PhD,Lahore,Private,692.0,4685.0,3404615.0,1
+31,99551.0,9,Master,Rawalpindi,Business,761.0,4866.0,1577394.0,1
+40,42917.0,18,Master,Rawalpindi,Private,642.0,1778.0,100000.0,1
+57,76227.0,31,PhD,Islamabad,Private,743.0,3225.0,2403045.0,1
+38,61522.0,20,Master,Peshawar,Business,566.0,1340.0,2686860.0,0
+33,82745.0,14,Master,Lahore,Private,617.0,4009.0,372739.0,1
+62,73440.0,39,High School,Islamabad,Freelance,554.0,3460.0,1958836.0,1
+35,,13,Bachelor,,Freelance,661.0,589.0,2206103.0,0
+64,57344.0,40,Bachelor,Lahore,Freelance,677.0,2549.0,1734203.0,1
+41,69368.0,21,Bachelor,Rawalpindi,Business,688.0,1942.0,1088306.0,1
+43,33444.0,23,Bachelor,Lahore,Business,684.0,742.0,2714344.0,1
+42,77782.0,15,PhD,Karachi,Private,615.0,2142.0,1436958.0,1
+62,31472.0,43,Master,Lahore,Freelance,667.0,843.0,463332.0,1
+58,47434.0,38,Master,,Government,575.0,1522.0,100000.0,0
+46,94509.0,19,Bachelor,Lahore,Government,775.0,3287.0,2934765.0,1
+32,,14,High School,Karachi,Private,659.0,1721.0,2354998.0,0
+62,,40,High School,Rawalpindi,Freelance,646.0,2851.0,1879176.0,1
+18,,0,Bachelor,Peshawar,Business,791.0,789.0,1403753.0,1
+42,110789.0,18,High School,Karachi,Business,593.0,2416.0,1323901.0,0
+24,58300.0,3,High School,Karachi,Private,601.0,2390.0,831837.0,1
+26,67097.0,6,Master,Rawalpindi,Private,603.0,2283.0,1411690.0,0
+41,68939.0,23,Master,Karachi,Private,675.0,2123.0,100000.0,1
+18,78366.0,0,Bachelor,Islamabad,Freelance,710.0,3897.0,1137543.0,1
+61,31578.0,41,High School,Rawalpindi,Freelance,732.0,1444.0,1520156.0,1
+25,64883.0,6,Bachelor,Islamabad,Government,850.0,3207.0,2348892.0,1
+41,50507.0,20,High School,Rawalpindi,Private,523.0,1886.0,1764066.0,1
+28,27830.0,8,PhD,Karachi,Private,723.0,701.0,2515431.0,1
+34,86717.0,16,Bachelor,Islamabad,Government,641.0,3819.0,3014222.0,1
+25,57252.0,5,Bachelor,Karachi,Business,639.0,1586.0,2752353.0,1
+52,70335.0,33,Bachelor,Rawalpindi,Government,637.0,2500.0,2223459.0,1
+52,68957.0,27,High School,Karachi,Private,616.0,1586.0,1810676.0,0
+50,57633.0,27,Bachelor,Islamabad,Government,798.0,2786.0,917291.0,1
+22,108451.0,0,Master,Islamabad,Private,739.0,2715.0,2465950.0,0
+59,63960.0,34,Master,Karachi,Business,682.0,3258.0,3311773.0,1
+56,30725.0,29,High School,Lahore,Private,775.0,1525.0,2107895.0,1
+58,56192.0,38,Bachelor,Rawalpindi,Government,574.0,2041.0,3525533.0,1
+45,75994.0,23,Bachelor,Rawalpindi,Private,587.0,3469.0,426985.0,1
+24,76717.0,0,Master,Karachi,Freelance,528.0,3182.0,761253.0,0
+26,41069.0,4,Bachelor,Lahore,Freelance,631.0,1955.0,2569681.0,0
+25,85449.0,0,,Islamabad,Freelance,691.0,3010.0,2037861.0,1
+29,26217.0,7,,Peshawar,Private,687.0,1233.0,2982404.0,0
+51,90171.0,33,Bachelor,Peshawar,Private,690.0,3269.0,1786076.0,1
+50,35974.0,28,Bachelor,Karachi,Private,581.0,1878.0,1018822.0,1
+40,60023.0,19,Bachelor,Lahore,Freelance,736.0,2224.0,1607766.0,1
+41,88421.0,18,Bachelor,Lahore,Private,697.0,3206.0,420584.0,1
+54,67631.0,34,Master,Rawalpindi,Government,,3179.0,784268.0,1
+52,82967.0,30,Bachelor,Islamabad,Business,548.0,4001.0,2675200.0,0
+61,78611.0,42,PhD,Lahore,Business,702.0,3091.0,2585509.0,1
+57,93298.0,34,Bachelor,Peshawar,Private,597.0,2503.0,2126704.0,1
+39,88369.0,16,PhD,Islamabad,Government,652.0,3219.0,251030.0,1
+44,55018.0,22,Master,Islamabad,Private,717.0,2922.0,1477437.0,1
+52,78925.0,29,Bachelor,Karachi,Freelance,,3625.0,697500.0,1
+18,31416.0,0,Master,Lahore,Freelance,620.0,1504.0,2858880.0,0
+52,63726.0,30,High School,Karachi,Private,680.0,1397.0,1274650.0,1
+54,,36,Master,Lahore,Private,573.0,3024.0,822827.0,1
+64,,39,Bachelor,Rawalpindi,Freelance,761.0,2880.0,1826817.0,1
+31,74826.0,10,High School,Karachi,Business,666.0,3629.0,1223861.0,0
+20,60308.0,0,Bachelor,Karachi,Private,758.0,1355.0,3135370.0,0
+18,89840.0,0,PhD,Peshawar,Government,643.0,4424.0,1138670.0,1
+22,63231.0,0,High School,Karachi,Private,643.0,2473.0,540695.0,0
+43,54760.0,25,Bachelor,Lahore,Private,627.0,1501.0,100000.0,1
+31,84503.0,11,Master,Peshawar,Business,741.0,2654.0,1772292.0,1
+56,34086.0,36,Master,Karachi,Freelance,630.0,1030.0,1294263.0,1
+44,76023.0,17,Bachelor,Karachi,Freelance,725.0,2929.0,513986.0,1
+26,42065.0,5,Bachelor,Rawalpindi,Private,653.0,949.0,2870304.0,0
+32,,9,High School,Karachi,Freelance,542.0,2432.0,2400521.0,0
+32,59257.0,8,Bachelor,Islamabad,Private,640.0,2840.0,1774604.0,1
+43,67970.0,16,Bachelor,Peshawar,Private,597.0,1716.0,3027894.0,1
+59,74077.0,38,PhD,Islamabad,Government,682.0,2120.0,2396282.0,1
+30,22547.0,7,High School,Peshawar,Private,597.0,810.0,1059430.0,0
+49,50687.0,31,Master,Rawalpindi,Freelance,745.0,1930.0,864702.0,1
+56,87958.0,31,High School,Karachi,Government,674.0,4071.0,2536183.0,1
+49,84091.0,25,High School,Karachi,Private,668.0,3006.0,2156730.0,0
+21,71227.0,0,Bachelor,Karachi,Private,726.0,3359.0,1952773.0,1
+47,35312.0,27,Bachelor,Peshawar,Private,747.0,1464.0,1038152.0,1
+54,77881.0,35,Master,Karachi,Private,679.0,1916.0,2347153.0,1
+40,80695.0,22,Master,Islamabad,Government,626.0,2102.0,1120051.0,1
+56,66034.0,36,Bachelor,Karachi,Freelance,556.0,2338.0,1708212.0,0
+62,91910.0,40,PhD,Rawalpindi,Private,632.0,3131.0,3102250.0,1
+32,,13,Master,Islamabad,Private,637.0,2279.0,1205249.0,0
+60,53783.0,40,Bachelor,Karachi,Government,687.0,2162.0,384310.0,1
+46,20000.0,25,Master,Karachi,Freelance,656.0,675.0,852708.0,1
+53,85236.0,29,Bachelor,Lahore,Private,728.0,2261.0,2694869.0,1
+30,71905.0,10,High School,Peshawar,Private,637.0,2042.0,2029258.0,1
+49,28000.0,23,Master,Islamabad,Government,676.0,1120.0,1684010.0,0
+24,26311.0,0,High School,Lahore,Private,763.0,920.0,1341816.0,1
+39,45802.0,18,Bachelor,Rawalpindi,Private,704.0,1740.0,2236824.0,1
+45,82460.0,27,Master,Peshawar,Freelance,676.0,2187.0,1035806.0,1
+19,58392.0,1,High School,Islamabad,Government,638.0,2507.0,2075099.0,0
+59,47295.0,41,Bachelor,Karachi,Government,636.0,2329.0,1141871.0,0
+62,42865.0,44,Master,Islamabad,Freelance,620.0,1262.0,992107.0,1
+23,41880.0,0,Bachelor,Karachi,Freelance,642.0,1559.0,1226261.0,0
+45,22459.0,25,Bachelor,Peshawar,Private,733.0,1198.0,1462133.0,1
+45,38437.0,22,Master,Karachi,Private,664.0,1228.0,1756053.0,0
+61,41447.0,41,Bachelor,Rawalpindi,Private,586.0,1686.0,2011910.0,1
+61,,39,Bachelor,Karachi,Private,804.0,1908.0,100000.0,1
+37,61354.0,13,PhD,Rawalpindi,Freelance,702.0,2518.0,1073114.0,1
+47,46837.0,28,Master,Peshawar,Business,582.0,1116.0,1447587.0,1
+28,115814.0,5,Bachelor,Peshawar,Business,649.0,6116.0,3154556.0,0
+45,50394.0,22,Master,Islamabad,Government,688.0,2252.0,827998.0,0
+42,90676.0,22,Master,Rawalpindi,Private,799.0,4271.0,1946517.0,1
+56,100664.0,33,High School,Rawalpindi,Private,602.0,4460.0,3145527.0,1
+50,30461.0,23,Bachelor,Lahore,Freelance,748.0,1233.0,618328.0,1
+18,66627.0,0,Bachelor,Lahore,Government,778.0,2387.0,2154578.0,1
+44,53614.0,22,Master,Lahore,Government,636.0,2651.0,1077955.0,1
+30,51824.0,11,Bachelor,Karachi,Freelance,661.0,2733.0,1345830.0,1
+58,77218.0,32,Bachelor,Lahore,Freelance,607.0,2893.0,1077200.0,1
+20,51297.0,0,PhD,Rawalpindi,Freelance,666.0,2662.0,1141328.0,1
+56,54089.0,36,Master,Karachi,Private,677.0,2179.0,4249721.0,1
+23,61301.0,0,High School,Peshawar,Freelance,726.0,2377.0,2560010.0,0
+25,56785.0,0,Bachelor,Islamabad,Business,756.0,2043.0,2791564.0,1
+44,39181.0,24,Bachelor,Lahore,Private,628.0,1090.0,2242794.0,1
+26,82510.0,6,Bachelor,Peshawar,Government,542.0,1729.0,354369.0,0
+54,88068.0,35,Master,Rawalpindi,Private,679.0,2544.0,2155462.0,1
+50,,25,Master,Islamabad,Business,701.0,2745.0,2765637.0,1
+59,56716.0,32,Bachelor,Peshawar,Private,697.0,1900.0,1031940.0,1
+61,49485.0,43,Bachelor,Islamabad,Government,657.0,1771.0,2668794.0,1
+41,49520.0,16,Master,Lahore,Private,689.0,2650.0,2433903.0,1
+32,116862.0,8,Bachelor,Rawalpindi,Freelance,786.0,3799.0,3466836.0,1
+49,85632.0,25,High School,Islamabad,Private,,3075.0,1423995.0,1
+49,46518.0,29,Bachelor,,Private,654.0,1176.0,812150.0,1
+41,68623.0,23,High School,Lahore,Government,645.0,1539.0,1474535.0,1
+58,57024.0,37,PhD,Lahore,Business,668.0,2662.0,3092014.0,1
+29,77844.0,3,High School,Peshawar,Private,795.0,3103.0,154435.0,1
+56,76957.0,34,Bachelor,Peshawar,Private,667.0,3555.0,100000.0,1
+19,88839.0,1,Bachelor,Islamabad,Freelance,679.0,2295.0,1880456.0,0
+20,46288.0,0,PhD,Karachi,Government,,1847.0,1401670.0,1
+54,67304.0,29,High School,Lahore,Business,757.0,1971.0,1806955.0,1
+34,26532.0,9,High School,Islamabad,Private,817.0,754.0,2650781.0,1
+19,37339.0,0,High School,Peshawar,Government,712.0,792.0,1302688.0,1
+19,84450.0,0,High School,Islamabad,Private,686.0,2126.0,114295.0,0
+45,44085.0,27,Bachelor,Peshawar,Private,683.0,1373.0,3640033.0,1
+40,46500.0,19,Bachelor,Rawalpindi,Freelance,513.0,1150.0,902495.0,0
+54,64818.0,34,Bachelor,Peshawar,Government,732.0,3480.0,846867.0,1
+49,80285.0,30,High School,Peshawar,Freelance,689.0,2499.0,2793348.0,1
+50,41662.0,25,Master,Peshawar,Private,710.0,1049.0,1453960.0,0
+18,20000.0,0,Bachelor,Karachi,Private,,549.0,1742949.0,0
+36,45855.0,10,Bachelor,Peshawar,Private,653.0,1854.0,2234511.0,0
+19,91524.0,0,Bachelor,Lahore,Business,651.0,2102.0,2775225.0,0
+61,72549.0,40,PhD,Lahore,Private,752.0,3597.0,1499885.0,1
+43,94125.0,20,High School,Islamabad,Private,653.0,4978.0,3167957.0,1
+49,40100.0,29,Master,Karachi,Private,826.0,1165.0,100000.0,1
+23,28933.0,0,Master,Islamabad,Government,710.0,1037.0,2483809.0,0
+49,75176.0,29,High School,Lahore,Private,591.0,1622.0,1044425.0,0
+21,70281.0,2,PhD,Lahore,Business,671.0,2965.0,3035044.0,0
+28,71722.0,8,Bachelor,Rawalpindi,Private,634.0,2484.0,1927840.0,0
+34,85526.0,11,High School,Peshawar,Business,526.0,2552.0,1194385.0,1
+55,74277.0,36,Master,,Private,792.0,2060.0,2396557.0,1
+41,73924.0,16,Master,Islamabad,Freelance,729.0,3152.0,2603870.0,0
+22,80730.0,4,Bachelor,Islamabad,Business,717.0,2802.0,2377705.0,1
+51,76053.0,27,High School,Peshawar,Private,692.0,2040.0,873273.0,1
+23,83864.0,4,Bachelor,Peshawar,Business,583.0,3674.0,1364385.0,0
+39,87187.0,12,Master,Rawalpindi,Government,646.0,3459.0,1796334.0,1
+28,98697.0,5,Bachelor,Karachi,Business,739.0,4881.0,1762866.0,0
+33,50718.0,14,Bachelor,Islamabad,Freelance,606.0,1255.0,2474771.0,1
+50,75572.0,31,High School,Peshawar,Private,503.0,3554.0,100000.0,0
+26,56853.0,0,High School,Islamabad,Private,664.0,2461.0,2100894.0,0
+23,46662.0,0,Master,Peshawar,Private,670.0,1151.0,1539017.0,0
+33,49830.0,14,Bachelor,Lahore,Private,689.0,2192.0,1045349.0,1
+46,75889.0,22,PhD,Islamabad,Private,731.0,2698.0,1131762.0,1
+20,74202.0,0,Bachelor,Lahore,Private,725.0,3883.0,1606916.0,1
+37,73809.0,12,,Islamabad,Private,698.0,1886.0,100000.0,1
+53,60034.0,29,Bachelor,Karachi,Freelance,764.0,2537.0,1168839.0,1
+36,65075.0,11,Bachelor,Rawalpindi,Private,574.0,2184.0,1011767.0,0
+43,82991.0,19,High School,Lahore,Private,715.0,4376.0,2279505.0,1
+20,32233.0,0,Bachelor,Peshawar,Government,724.0,1026.0,1075026.0,1
+36,65542.0,12,Bachelor,Karachi,Private,593.0,3468.0,1606398.0,1
+37,66979.0,15,PhD,Islamabad,Private,575.0,3408.0,3188049.0,0
+49,81573.0,25,Master,Lahore,Private,628.0,2435.0,2694916.0,1
+24,35295.0,6,High School,Islamabad,Business,634.0,1681.0,2612044.0,1
+58,97893.0,40,High School,Islamabad,Freelance,733.0,5288.0,1350115.0,1
+50,69700.0,24,,Islamabad,Private,637.0,2039.0,2288729.0,1
+57,,35,Bachelor,Rawalpindi,Freelance,620.0,2508.0,1589492.0,0
+56,56170.0,34,Master,Rawalpindi,Government,637.0,2144.0,1623516.0,0
+35,76836.0,15,PhD,Peshawar,Freelance,758.0,2356.0,2168717.0,1
+57,66055.0,35,High School,Lahore,Freelance,681.0,1410.0,1262706.0,1
+18,91598.0,0,Bachelor,Karachi,Government,667.0,2580.0,3143703.0,0
+28,33287.0,2,Bachelor,Karachi,Private,672.0,1006.0,1655883.0,0
+45,68862.0,19,Master,Karachi,Private,770.0,2453.0,2356525.0,1
+42,73987.0,19,Bachelor,Islamabad,Government,628.0,1963.0,3110040.0,1
+40,60900.0,22,Master,Rawalpindi,Business,772.0,3041.0,2728488.0,1
+48,56097.0,24,Master,Lahore,Government,695.0,2487.0,531973.0,1
+47,57015.0,23,High School,Islamabad,Freelance,669.0,1350.0,2200406.0,0
+59,68842.0,32,Master,Rawalpindi,Business,850.0,2926.0,2565647.0,1
+52,25181.0,25,High School,Rawalpindi,Private,606.0,1073.0,2602677.0,1
+24,86230.0,3,Master,Lahore,Freelance,655.0,4545.0,798035.0,1
+33,54437.0,8,Bachelor,,Freelance,594.0,1140.0,1208668.0,0
+43,67812.0,20,Bachelor,Lahore,Business,747.0,1973.0,2695102.0,1
+19,73076.0,0,Master,Islamabad,Business,798.0,3782.0,1114416.0,0
+18,53432.0,0,Master,Peshawar,Freelance,797.0,2773.0,1530274.0,0
+29,62117.0,10,Master,Lahore,Private,766.0,2786.0,3218288.0,1
+22,20225.0,3,Bachelor,Peshawar,Freelance,666.0,938.0,1756981.0,0
+54,81107.0,33,Master,Islamabad,Private,654.0,1937.0,1145903.0,1
+49,88762.0,27,Bachelor,Peshawar,Freelance,563.0,3370.0,1010144.0,1
+26,27578.0,1,Master,Karachi,Business,823.0,787.0,2099447.0,0
+58,56057.0,35,Bachelor,Peshawar,Private,713.0,1506.0,600167.0,1
+52,37943.0,31,PhD,Lahore,Government,646.0,1815.0,1577398.0,1
+36,61090.0,12,PhD,Islamabad,Private,773.0,1548.0,2099907.0,1
+33,79270.0,8,Master,Lahore,Private,612.0,2890.0,2969235.0,1
+20,86721.0,1,Bachelor,Karachi,Private,708.0,4520.0,2400793.0,1
+37,89681.0,13,High School,Lahore,Freelance,668.0,2424.0,1157341.0,1
+41,93832.0,22,Master,Lahore,Business,725.0,5014.0,2860577.0,1
+50,60107.0,31,High School,Lahore,Business,676.0,3244.0,1530436.0,1
+41,39767.0,16,Master,Rawalpindi,Private,578.0,1565.0,687867.0,1
+28,62479.0,9,Bachelor,Karachi,Business,685.0,1656.0,1645163.0,1
+25,78932.0,0,Bachelor,Lahore,Freelance,753.0,2476.0,3094352.0,0
+53,38000.0,35,Master,Lahore,Private,678.0,1329.0,1948716.0,1
+55,101523.0,29,Bachelor,Lahore,Private,734.0,3162.0,1811270.0,1
+57,84754.0,39,Bachelor,Islamabad,Private,607.0,2559.0,3273490.0,1
+37,60456.0,10,Bachelor,Rawalpindi,Business,678.0,3219.0,511781.0,1
+52,49361.0,25,Bachelor,Islamabad,Government,636.0,1281.0,642961.0,1
+42,50279.0,23,Master,Rawalpindi,Freelance,732.0,2277.0,345738.0,1
+52,66633.0,29,Bachelor,Lahore,Private,682.0,1389.0,2135383.0,1
+42,59953.0,19,PhD,Karachi,Freelance,728.0,2440.0,1949844.0,1
+46,,28,Master,Peshawar,Private,756.0,4413.0,3188463.0,1
+35,57455.0,11,Bachelor,Peshawar,Private,728.0,1748.0,2019128.0,1
+63,76121.0,38,Master,Lahore,Government,699.0,2057.0,1436259.0,1
+35,64364.0,16,Bachelor,Islamabad,Private,610.0,2739.0,1801615.0,0
+19,70933.0,0,Bachelor,Karachi,Freelance,680.0,3163.0,1905937.0,1
+52,59939.0,26,PhD,Rawalpindi,Private,643.0,2623.0,295415.0,1
+33,80570.0,10,High School,Lahore,Freelance,656.0,2536.0,4239298.0,0
+58,80896.0,36,,Karachi,Private,654.0,2365.0,2267884.0,1
+53,75118.0,27,Bachelor,Karachi,Government,611.0,3959.0,1989007.0,1
+50,78365.0,24,Bachelor,Rawalpindi,Private,543.0,4044.0,2353648.0,1
+21,44224.0,3,Bachelor,Karachi,Private,633.0,1595.0,2438470.0,1
+50,72111.0,30,Master,Islamabad,Business,694.0,3536.0,1673502.0,1
+31,92482.0,5,Bachelor,Islamabad,Private,586.0,3321.0,1231883.0,1
+38,75811.0,19,Bachelor,Islamabad,Freelance,681.0,2652.0,2339506.0,0
+37,42324.0,16,High School,Karachi,Business,813.0,1103.0,2147140.0,0
+25,63905.0,4,Bachelor,Islamabad,Private,752.0,2240.0,1071099.0,1
+24,73250.0,5,Bachelor,Rawalpindi,Private,795.0,2838.0,3077132.0,1
+20,48337.0,0,Bachelor,,Freelance,707.0,1043.0,2064017.0,0
+34,35118.0,14,Bachelor,Peshawar,Business,762.0,1252.0,2456837.0,1
+50,58046.0,32,High School,Karachi,Business,629.0,2721.0,3052729.0,1
+29,48702.0,6,Bachelor,Rawalpindi,Government,635.0,2119.0,1819700.0,0
+39,64686.0,14,Bachelor,Peshawar,Freelance,488.0,2717.0,2085257.0,0
+39,29989.0,19,,Karachi,Private,763.0,1534.0,2529025.0,1
+63,77423.0,41,PhD,Islamabad,Business,788.0,1660.0,1147625.0,1
+47,51039.0,29,Bachelor,Lahore,Business,641.0,2011.0,1848646.0,1
+55,86907.0,28,Master,Lahore,Private,662.0,4091.0,1912994.0,1
+55,58908.0,31,Master,Islamabad,Private,627.0,2290.0,939547.0,1
+62,64441.0,35,Bachelor,Lahore,Private,707.0,2038.0,3885873.0,1
+25,61193.0,7,High School,Lahore,Private,759.0,1553.0,533436.0,1
+44,49860.0,18,Master,Islamabad,Freelance,558.0,2514.0,631706.0,0
+44,119390.0,19,Master,Islamabad,Private,709.0,4361.0,2982804.0,1
+51,54091.0,27,Bachelor,Karachi,Private,661.0,2710.0,2441940.0,0
+38,87517.0,11,Master,Karachi,Private,688.0,3532.0,876632.0,1
+47,40940.0,23,Bachelor,Islamabad,Business,712.0,1773.0,2346560.0,1
+50,73187.0,28,Master,Rawalpindi,Government,667.0,3487.0,3121065.0,1
+45,75535.0,23,PhD,Lahore,Private,673.0,3233.0,1772763.0,1
+64,64468.0,42,Bachelor,Karachi,Private,665.0,2198.0,4138941.0,1
+50,52438.0,32,Master,Lahore,Business,748.0,1990.0,248344.0,1
+22,59207.0,0,Bachelor,Peshawar,Freelance,709.0,2818.0,2424441.0,0
+36,56128.0,18,Master,Islamabad,Private,695.0,1868.0,2849876.0,1
+21,117845.0,0,Master,Rawalpindi,Private,591.0,3980.0,2602210.0,0
+52,64503.0,26,High School,Peshawar,Private,653.0,1550.0,1616080.0,1
+34,76548.0,8,Bachelor,Peshawar,Private,743.0,3928.0,1538603.0,1
+61,104196.0,39,Bachelor,Peshawar,Government,683.0,2487.0,2199731.0,1
+45,45721.0,24,Master,Islamabad,Business,726.0,1940.0,2534179.0,1
+47,65829.0,27,Bachelor,Karachi,Government,804.0,2278.0,2342226.0,1
+46,59078.0,26,Master,Islamabad,Freelance,753.0,2030.0,2736052.0,1
+63,63105.0,41,High School,Karachi,Private,687.0,2744.0,883017.0,1
+23,61062.0,0,Bachelor,Peshawar,Freelance,644.0,1409.0,1595006.0,1
+52,48899.0,34,Bachelor,Peshawar,Freelance,501.0,1986.0,953986.0,1
+58,69299.0,36,Master,Rawalpindi,Private,668.0,3227.0,1452499.0,1
+54,41622.0,31,Master,Karachi,Private,657.0,2016.0,2713699.0,1
+41,86755.0,17,PhD,Peshawar,Government,707.0,2301.0,1897186.0,1
+46,78713.0,20,Master,Lahore,Private,669.0,3994.0,4146173.0,0
+63,54144.0,43,Master,Rawalpindi,Private,658.0,2312.0,1974066.0,1
+48,55210.0,29,Bachelor,Islamabad,Government,555.0,2773.0,1853723.0,1
+52,71061.0,32,Bachelor,Rawalpindi,Business,614.0,2630.0,1895565.0,1
+50,47432.0,24,Bachelor,Lahore,Government,713.0,1845.0,1225972.0,1
+38,104864.0,14,Master,Karachi,Freelance,800.0,5397.0,1747947.0,1
+49,72874.0,23,Master,Islamabad,Private,673.0,3704.0,2815009.0,1
+40,73652.0,21,High School,Islamabad,Freelance,703.0,2635.0,1902574.0,1
+50,79992.0,28,Master,Karachi,Government,747.0,2398.0,1085886.0,1
+20,52252.0,0,Master,Rawalpindi,Business,623.0,1773.0,967424.0,0
+35,88958.0,16,Bachelor,Peshawar,Private,706.0,3003.0,1394818.0,1
+42,67520.0,16,High School,Rawalpindi,Government,,2052.0,1866477.0,1
+59,85903.0,33,High School,Lahore,Government,741.0,2559.0,2874228.0,1
+48,60645.0,25,Bachelor,Peshawar,Private,691.0,3004.0,593560.0,1
+20,93980.0,0,Master,Rawalpindi,Private,701.0,2177.0,1512156.0,1
+57,73830.0,32,Bachelor,Karachi,Private,625.0,3206.0,1929879.0,1
+63,113015.0,40,Bachelor,Lahore,Private,729.0,3006.0,149665.0,1
+41,56871.0,23,Master,Lahore,Business,826.0,1838.0,1049762.0,1
+49,69500.0,28,Master,Lahore,Private,609.0,1590.0,1188100.0,1
+64,42305.0,40,Master,Peshawar,Private,,1262.0,1083627.0,1
+39,53355.0,20,Bachelor,Islamabad,Freelance,696.0,2478.0,1972701.0,0
+40,78611.0,14,Bachelor,Peshawar,Private,735.0,3957.0,1655496.0,1
+19,89845.0,0,Master,Rawalpindi,Government,641.0,2535.0,1300243.0,1
+44,130230.0,19,Bachelor,Islamabad,Private,482.0,4725.0,2185166.0,0
+59,62874.0,35,High School,Rawalpindi,Business,,2296.0,3350767.0,1
+19,44469.0,0,Bachelor,Islamabad,Business,733.0,2221.0,3275331.0,1
+43,81573.0,24,Bachelor,Peshawar,Business,558.0,3774.0,100000.0,1
+34,40188.0,14,Bachelor,Lahore,Private,637.0,1525.0,2319365.0,1
+57,77414.0,34,Bachelor,Karachi,Freelance,790.0,3344.0,1639779.0,1
+50,53950.0,28,Bachelor,Lahore,Private,781.0,2648.0,1939640.0,0
+26,69655.0,1,High School,Peshawar,Private,746.0,1473.0,1441545.0,0
+60,89003.0,37,Bachelor,Islamabad,Private,668.0,3050.0,1905830.0,1
+56,62564.0,33,Bachelor,Lahore,Government,686.0,3195.0,1936267.0,1
+46,85523.0,28,Master,Peshawar,Government,671.0,3892.0,1278943.0,1
+59,84209.0,38,High School,Rawalpindi,Government,759.0,3278.0,993269.0,1
+43,23985.0,21,Bachelor,Karachi,Private,619.0,923.0,1396174.0,0
+52,45165.0,32,Bachelor,Lahore,Private,624.0,1465.0,2010833.0,1
+42,30640.0,16,Bachelor,Islamabad,Freelance,751.0,1170.0,2339097.0,1
+41,109038.0,23,Bachelor,Rawalpindi,Private,677.0,4654.0,2568014.0,1
+30,62681.0,7,,Peshawar,Freelance,776.0,2180.0,1355229.0,0
+24,104178.0,1,Master,Karachi,Private,633.0,4650.0,2055460.0,1
+53,29075.0,26,Bachelor,Islamabad,Freelance,676.0,1440.0,2666252.0,1
+62,52399.0,40,Bachelor,Peshawar,Government,615.0,1362.0,2849035.0,1
+37,82611.0,15,Master,Peshawar,Private,681.0,2964.0,1747050.0,1
+18,68944.0,0,Bachelor,Lahore,Private,577.0,2374.0,1601161.0,0
+25,76723.0,3,Bachelor,Lahore,Government,646.0,3357.0,1972012.0,1
+63,37416.0,40,Bachelor,Islamabad,Freelance,579.0,1091.0,765263.0,1
+33,95290.0,8,Master,Peshawar,Private,729.0,4019.0,1625751.0,1
+31,82094.0,12,Bachelor,Lahore,Private,730.0,4112.0,2470128.0,1
+29,73836.0,6,High School,Karachi,Business,559.0,2567.0,2377752.0,0
+40,49917.0,22,Bachelor,Karachi,Freelance,773.0,2556.0,1556759.0,1
+32,72124.0,11,Master,Peshawar,Private,850.0,3890.0,1995946.0,1
+45,58587.0,18,High School,Lahore,Government,683.0,1428.0,1057815.0,1
+51,28689.0,31,PhD,Islamabad,Private,635.0,821.0,2433143.0,1
+19,63891.0,0,Bachelor,Islamabad,Government,850.0,3355.0,1729961.0,1
+49,61552.0,29,PhD,Islamabad,Private,588.0,3249.0,1551644.0,1
+40,88373.0,17,PhD,Karachi,Business,681.0,2129.0,1474449.0,1
+39,20000.0,21,Bachelor,Lahore,Government,693.0,427.0,1743396.0,0
+42,70174.0,19,High School,Lahore,Government,,1839.0,1396910.0,1
+39,39578.0,18,High School,Karachi,Government,705.0,2139.0,2392329.0,1
+39,72023.0,14,Bachelor,Islamabad,Business,645.0,1933.0,1444245.0,0
+59,73234.0,33,Master,Islamabad,Freelance,613.0,2752.0,3233668.0,1
+23,63089.0,2,Bachelor,Peshawar,Government,656.0,3099.0,3118689.0,0
+32,82760.0,5,Bachelor,Rawalpindi,Freelance,610.0,1780.0,997611.0,0
+60,37593.0,33,Bachelor,Lahore,Government,683.0,1541.0,1862734.0,1
+54,89370.0,31,Master,Lahore,Government,641.0,2687.0,1214409.0,1
+50,49422.0,32,High School,Lahore,Private,575.0,2450.0,1506017.0,1
+25,,4,High School,Rawalpindi,Government,768.0,932.0,3602185.0,1
+61,59007.0,37,High School,Peshawar,Private,645.0,2580.0,1523186.0,1
+61,20000.0,43,Master,Rawalpindi,Business,591.0,866.0,2124203.0,1
+22,70592.0,0,Bachelor,Islamabad,Private,668.0,1992.0,2287189.0,1
+56,59296.0,29,Bachelor,Islamabad,Business,685.0,1304.0,899434.0,0
+21,92141.0,0,High School,Lahore,Government,558.0,3177.0,1030414.0,0
+23,79276.0,1,Bachelor,Karachi,Government,703.0,2416.0,714580.0,0
+62,34376.0,35,High School,Lahore,Government,607.0,1643.0,1002626.0,1
+49,46555.0,23,PhD,Karachi,Private,800.0,2212.0,100000.0,1
+47,76455.0,28,Master,Rawalpindi,Private,717.0,2758.0,2290124.0,1
+64,83636.0,42,Bachelor,Islamabad,Private,652.0,3433.0,3648774.0,1
+52,91895.0,29,Master,Karachi,Government,628.0,3765.0,1933039.0,1
+57,91719.0,33,Bachelor,Rawalpindi,Private,673.0,4440.0,525358.0,1
+33,63031.0,11,Master,Islamabad,Freelance,723.0,2206.0,1221501.0,0
+30,72978.0,4,Master,Karachi,Private,678.0,2190.0,1387011.0,0
+59,93572.0,41,Bachelor,Lahore,Private,665.0,2776.0,884174.0,1
+47,58327.0,23,Master,Lahore,Private,684.0,2258.0,2574164.0,0
+36,73354.0,9,Bachelor,Lahore,Business,638.0,2626.0,2529234.0,1
+34,57809.0,10,Bachelor,Rawalpindi,Freelance,656.0,2052.0,760093.0,1
+36,52879.0,15,High School,Lahore,Private,534.0,1262.0,2452573.0,0
+45,66064.0,19,Bachelor,Peshawar,Government,748.0,2959.0,3174131.0,1
+43,49874.0,21,Master,Islamabad,Private,701.0,1394.0,3512302.0,1
+54,62120.0,33,PhD,Rawalpindi,Business,626.0,1702.0,4378691.0,0
+43,42231.0,19,Bachelor,Lahore,Freelance,813.0,1461.0,988207.0,1
+40,60820.0,19,Master,Islamabad,Private,686.0,1729.0,4341798.0,1
+26,74865.0,6,Master,Karachi,Government,607.0,3017.0,1481214.0,0
+29,52047.0,3,High School,Lahore,Private,740.0,1729.0,1266781.0,0
+18,65204.0,0,Bachelor,Islamabad,Business,708.0,2334.0,2094365.0,0
+18,,0,High School,Peshawar,Private,708.0,2637.0,1276145.0,0
+64,74956.0,40,Master,Karachi,Government,650.0,2070.0,2159140.0,1
+51,62061.0,25,PhD,Peshawar,Private,712.0,1615.0,611931.0,1
+49,88889.0,24,High School,Islamabad,Freelance,662.0,4461.0,1585123.0,1
+42,20000.0,17,Master,Peshawar,Freelance,719.0,706.0,2957024.0,1
+57,129631.0,34,Bachelor,Islamabad,Freelance,547.0,4481.0,1748645.0,1
+62,45835.0,41,Bachelor,Islamabad,Government,650.0,1009.0,1927436.0,1
+18,73875.0,0,Bachelor,Peshawar,Business,801.0,2765.0,2227733.0,1
+33,44354.0,13,Bachelor,Islamabad,Private,626.0,1743.0,2853595.0,0
+56,79174.0,30,High School,Lahore,Private,638.0,3124.0,310298.0,1
+22,71085.0,3,Bachelor,Islamabad,Private,649.0,3156.0,2326072.0,0
+39,50684.0,20,High School,Rawalpindi,Business,595.0,1356.0,1558675.0,0
+46,88608.0,22,Bachelor,Islamabad,Private,525.0,2591.0,1949974.0,1
+20,61393.0,0,High School,Rawalpindi,Freelance,664.0,2938.0,2753955.0,0
+29,77039.0,8,Master,Islamabad,Freelance,690.0,4037.0,725232.0,1
+43,44822.0,16,Bachelor,Islamabad,Private,676.0,1137.0,888620.0,1
+33,64320.0,8,Master,Peshawar,Private,670.0,2407.0,100000.0,1
+54,109075.0,28,Bachelor,Lahore,Private,683.0,3051.0,1305757.0,1
+39,86185.0,15,Bachelor,Lahore,Private,752.0,1968.0,2997389.0,1
+46,71768.0,24,PhD,Karachi,Private,667.0,2274.0,1691472.0,0
+31,55124.0,6,High School,Peshawar,Private,640.0,1412.0,593888.0,0
+45,66485.0,24,Bachelor,Peshawar,Business,660.0,2958.0,1362889.0,1
+22,69346.0,3,Master,Lahore,Business,721.0,2678.0,460924.0,1
+64,74883.0,41,High School,Peshawar,Private,779.0,1919.0,787333.0,1
+47,41313.0,21,High School,Lahore,Private,636.0,873.0,2149937.0,1
+63,79705.0,45,Bachelor,Peshawar,Private,687.0,3808.0,743514.0,1
+22,41029.0,0,High School,Islamabad,Freelance,704.0,1096.0,2801371.0,0
+29,100885.0,5,Bachelor,Lahore,Freelance,611.0,4140.0,1735992.0,1
+33,48024.0,6,Bachelor,Lahore,Private,681.0,1540.0,1877035.0,1
+43,71526.0,17,Master,Rawalpindi,Private,577.0,2886.0,1549464.0,1
+43,87113.0,16,Master,Peshawar,Freelance,556.0,2731.0,2495563.0,1
+38,59448.0,12,Master,Peshawar,Government,706.0,1411.0,2504844.0,1
+56,72493.0,29,Bachelor,Lahore,Private,653.0,2049.0,2101549.0,1
+53,96574.0,33,Master,Islamabad,Government,694.0,2617.0,2308310.0,1
+50,77417.0,28,Bachelor,Islamabad,Private,679.0,2717.0,1609119.0,1
+47,72822.0,22,Master,Islamabad,Private,612.0,3115.0,2287983.0,1
+54,27935.0,29,Master,Peshawar,Freelance,677.0,828.0,1495910.0,0
+40,44458.0,19,Master,Rawalpindi,Freelance,594.0,944.0,1802008.0,1
+27,,9,Bachelor,Lahore,Private,777.0,3357.0,1552821.0,1
+22,77539.0,4,Bachelor,Karachi,Business,585.0,3181.0,1388503.0,0
+53,80872.0,32,Bachelor,Rawalpindi,Private,666.0,4280.0,1179799.0,1
+51,78979.0,28,Master,Karachi,Freelance,607.0,3197.0,2220921.0,1
+48,93375.0,23,High School,Rawalpindi,Government,720.0,3412.0,2979545.0,1
+27,59249.0,4,Master,Islamabad,Business,657.0,2367.0,2853992.0,0
+36,67651.0,10,Bachelor,Peshawar,Business,644.0,3502.0,669091.0,0
+49,42369.0,23,High School,Karachi,Private,740.0,2053.0,2960283.0,0
+18,,0,High School,Rawalpindi,Business,682.0,1166.0,1513657.0,1
+22,28838.0,0,High School,,Freelance,716.0,829.0,2340660.0,0
+62,45526.0,44,Bachelor,Karachi,Freelance,611.0,1347.0,984406.0,1
+21,99156.0,2,Bachelor,Lahore,Private,582.0,3733.0,1927782.0,1
+33,30840.0,11,PhD,,Freelance,688.0,1407.0,2082351.0,0
+41,58322.0,20,Bachelor,Lahore,Business,658.0,2193.0,463856.0,1
+33,36551.0,12,High School,Islamabad,Private,724.0,844.0,2347440.0,1
+19,51779.0,0,Master,Lahore,Business,674.0,2328.0,3011342.0,1
+45,68733.0,20,Master,Lahore,Private,694.0,3278.0,1642817.0,1
+49,49597.0,26,,Rawalpindi,Private,566.0,1512.0,3024151.0,0
+44,88973.0,26,High School,Islamabad,Government,812.0,3823.0,1629276.0,1
+37,98748.0,18,Master,Lahore,Government,669.0,3461.0,2564626.0,1
+41,20000.0,18,Master,Peshawar,Government,729.0,1009.0,100000.0,1
+29,49974.0,10,High School,Karachi,Private,621.0,2449.0,3976900.0,0
+52,66301.0,25,High School,Lahore,Business,702.0,2542.0,3145912.0,0
+50,89775.0,28,Bachelor,,Private,589.0,3940.0,1543837.0,1
+50,55007.0,28,High School,Lahore,Private,712.0,2766.0,100000.0,0
+60,64561.0,37,,Karachi,Private,655.0,2412.0,2059226.0,1
+54,39552.0,31,Bachelor,Islamabad,Government,682.0,1237.0,500467.0,1
+29,,6,Master,Rawalpindi,Business,729.0,1437.0,2200368.0,1
+20,96798.0,1,Bachelor,Islamabad,Freelance,594.0,2727.0,2170409.0,1
+18,24870.0,0,High School,Rawalpindi,Freelance,632.0,840.0,952737.0,0
+50,116230.0,30,High School,Islamabad,Private,712.0,5776.0,2808870.0,1
+57,,34,Bachelor,Karachi,Government,827.0,3641.0,2525017.0,1
+27,79959.0,2,Master,Karachi,Government,670.0,2742.0,2678241.0,1
+60,77660.0,42,Master,Islamabad,Government,721.0,2174.0,1807972.0,1
+61,59441.0,43,Bachelor,Lahore,Private,673.0,1944.0,526028.0,1
+46,73626.0,27,Bachelor,Karachi,Freelance,816.0,2231.0,2680085.0,1
+30,60844.0,7,High School,Rawalpindi,Government,558.0,1625.0,1556666.0,0
+29,77168.0,3,Master,Rawalpindi,Freelance,687.0,3520.0,549198.0,1
+48,64259.0,27,High School,Peshawar,Government,566.0,1879.0,3016835.0,1
+63,44092.0,43,Bachelor,Rawalpindi,Private,505.0,1586.0,3689467.0,1
+19,45847.0,0,Bachelor,Peshawar,Government,701.0,1545.0,1762877.0,0
+52,43346.0,25,PhD,Islamabad,Private,690.0,2322.0,3743209.0,1
+40,86360.0,14,Bachelor,Islamabad,Business,660.0,2925.0,1882183.0,1
+34,51416.0,12,Bachelor,Islamabad,Government,673.0,1208.0,1457590.0,1
+43,22934.0,17,Master,Lahore,Private,850.0,546.0,1232587.0,1
+25,73730.0,6,Bachelor,Lahore,Business,662.0,2988.0,3273374.0,0
+46,98319.0,26,Bachelor,Peshawar,Government,716.0,4013.0,1097871.0,1
+43,82008.0,19,Master,Rawalpindi,Private,635.0,2853.0,2461742.0,1
+27,51727.0,3,Master,Rawalpindi,Government,701.0,1822.0,1296753.0,1
+43,30090.0,20,Bachelor,Islamabad,Private,663.0,681.0,1385724.0,1
+51,62046.0,28,Bachelor,Karachi,Freelance,651.0,2361.0,2727225.0,0
+58,61497.0,39,Bachelor,Lahore,Freelance,807.0,2316.0,1457967.0,1
+24,43678.0,0,Master,Lahore,Business,762.0,1128.0,1435684.0,0
+21,77123.0,0,High School,Islamabad,Government,690.0,1874.0,2819524.0,1
+62,105626.0,41,Master,Lahore,Government,519.0,2636.0,3237658.0,1
+28,69890.0,8,Bachelor,Islamabad,Freelance,655.0,1691.0,2380221.0,0
+46,68530.0,27,Bachelor,Peshawar,Private,850.0,2820.0,1210707.0,1
+53,44381.0,35,Master,Rawalpindi,Government,664.0,1215.0,1340452.0,0
+42,95743.0,20,PhD,Karachi,Government,757.0,2797.0,1871924.0,1
+38,63347.0,19,High School,,Private,781.0,1686.0,2088837.0,1
+53,52263.0,34,Bachelor,Rawalpindi,Private,695.0,2757.0,910921.0,1
+27,66401.0,3,Bachelor,Peshawar,Business,621.0,3275.0,2450734.0,0
+54,75383.0,29,Master,Lahore,Business,510.0,2150.0,1876962.0,0
+26,68063.0,0,PhD,Karachi,Private,728.0,2161.0,255863.0,1
+41,91535.0,16,Bachelor,Lahore,Private,623.0,2547.0,963966.0,0
+52,73447.0,31,Master,Rawalpindi,Private,692.0,2734.0,1346284.0,1
+52,58753.0,34,Bachelor,Islamabad,Business,593.0,1262.0,1734428.0,0
+53,73826.0,29,Bachelor,Rawalpindi,Private,661.0,3190.0,3500351.0,1
+35,75992.0,17,Bachelor,Lahore,Freelance,682.0,2908.0,2014354.0,1
+56,36480.0,35,Bachelor,Rawalpindi,Private,699.0,1853.0,1043305.0,0
+49,90287.0,24,Bachelor,Islamabad,Government,602.0,2376.0,1998568.0,0
+41,58380.0,22,Bachelor,Peshawar,Private,764.0,2781.0,1483121.0,1
+40,58943.0,17,High School,,Freelance,638.0,2784.0,2092282.0,0
+49,81530.0,26,Master,Rawalpindi,Private,563.0,2044.0,2322511.0,1
+54,81438.0,28,High School,Lahore,Government,672.0,2779.0,2888308.0,1
+29,49582.0,7,Bachelor,Peshawar,Private,682.0,1314.0,1778142.0,1
+30,82664.0,3,Bachelor,Rawalpindi,Freelance,691.0,2424.0,3275064.0,1
+40,52670.0,19,,Rawalpindi,Business,775.0,1559.0,2617220.0,1
+42,105031.0,20,High School,Lahore,Private,663.0,4136.0,1163304.0,1
+52,46780.0,25,Bachelor,Lahore,Business,672.0,1616.0,3788870.0,1
+58,70269.0,36,PhD,Islamabad,Government,603.0,3684.0,2094295.0,1
+47,47796.0,22,Bachelor,Peshawar,Private,737.0,1197.0,1048388.0,1
+34,113899.0,7,Bachelor,Islamabad,Private,693.0,6070.0,3287622.0,0
+37,37768.0,12,Master,Rawalpindi,Private,651.0,1077.0,3670000.0,1
+42,76536.0,23,High School,Lahore,Freelance,547.0,3566.0,1770277.0,1
+39,48832.0,15,Bachelor,Rawalpindi,Freelance,781.0,1569.0,1346715.0,1
+30,57210.0,5,Bachelor,Rawalpindi,Private,594.0,1465.0,1644863.0,0
+36,74978.0,13,Bachelor,Karachi,Government,639.0,3706.0,2443259.0,1
+53,91941.0,31,Bachelor,Karachi,Freelance,705.0,2862.0,2950071.0,1
+29,100715.0,3,High School,Rawalpindi,Business,596.0,4310.0,2313439.0,0
+58,31187.0,38,Bachelor,Lahore,Government,575.0,1239.0,1891551.0,1
+36,70891.0,9,High School,Rawalpindi,Business,531.0,2592.0,3148211.0,0
+29,97109.0,8,Master,Karachi,Government,730.0,3628.0,1518447.0,0
+26,27923.0,0,Bachelor,Lahore,Private,642.0,1263.0,2727827.0,0
+24,71916.0,1,Bachelor,Rawalpindi,Freelance,850.0,1709.0,1540743.0,1
+45,64954.0,20,Master,Peshawar,Government,610.0,2800.0,2187921.0,0
+31,74120.0,7,Master,Peshawar,Government,615.0,3757.0,1697794.0,1
+48,48009.0,29,High School,Rawalpindi,Government,640.0,1093.0,1749733.0,1
+36,33416.0,16,PhD,Lahore,Freelance,697.0,853.0,1460352.0,0
+64,22912.0,46,Bachelor,Rawalpindi,Freelance,647.0,1025.0,3010369.0,1
+33,86480.0,7,High School,Rawalpindi,Private,723.0,3062.0,1140367.0,0
+22,89289.0,0,Master,Karachi,Private,611.0,3061.0,1133791.0,1
+52,71659.0,34,Bachelor,Peshawar,Government,583.0,1820.0,3708894.0,0
+29,53249.0,9,Bachelor,Karachi,Government,554.0,2009.0,2680063.0,0
+42,29293.0,21,Bachelor,Karachi,Private,524.0,734.0,100000.0,1
+38,77394.0,17,Bachelor,Rawalpindi,Freelance,644.0,2842.0,1291267.0,1
+53,40783.0,31,Bachelor,Karachi,Government,659.0,1888.0,169210.0,1
+40,49351.0,20,Master,Peshawar,Private,636.0,1453.0,944378.0,1
+33,52096.0,13,Bachelor,Karachi,Private,767.0,1920.0,100000.0,0
+56,60654.0,38,Master,Peshawar,Private,766.0,3269.0,1676709.0,1
+62,48301.0,38,Bachelor,Karachi,Business,657.0,2112.0,772252.0,1
+59,65736.0,32,Master,Peshawar,Private,554.0,3213.0,1853915.0,1
+56,51320.0,38,Master,Karachi,Private,640.0,1779.0,337391.0,1
+31,80430.0,12,Master,Karachi,Government,638.0,3734.0,1874621.0,0
+48,87683.0,27,Bachelor,Lahore,Private,634.0,1945.0,1426575.0,1
+22,67388.0,1,Bachelor,Peshawar,Private,631.0,1680.0,3151758.0,0
+52,75178.0,30,Bachelor,,Private,634.0,2075.0,3070221.0,1
+40,111593.0,21,Master,Peshawar,Government,653.0,3820.0,2506811.0,1
+46,39203.0,25,Master,Islamabad,Government,636.0,1922.0,1506048.0,1
+60,37864.0,42,Bachelor,Karachi,Private,,1226.0,3586842.0,1
+28,80290.0,9,High School,Peshawar,Private,705.0,3425.0,402268.0,1
+35,107824.0,17,Bachelor,Islamabad,Business,616.0,4796.0,536797.0,0
+64,59269.0,37,Bachelor,Lahore,Private,769.0,2393.0,1724595.0,1
+29,102990.0,2,Bachelor,Peshawar,Private,611.0,3372.0,3828634.0,0
+26,67122.0,5,Master,Peshawar,Private,567.0,2689.0,1617895.0,0
+27,50020.0,6,PhD,Islamabad,Government,707.0,1613.0,1635079.0,1
+61,43205.0,37,High School,Karachi,Freelance,623.0,1021.0,502281.0,1
+34,78847.0,7,Bachelor,Lahore,Private,702.0,4252.0,2651337.0,0
+55,44871.0,29,Bachelor,Peshawar,Freelance,512.0,1125.0,2657859.0,0
+24,66788.0,0,Bachelor,Karachi,Private,777.0,1552.0,2510168.0,0
+63,99836.0,41,High School,Lahore,Private,727.0,5004.0,1233701.0,1
+30,58251.0,3,High School,Rawalpindi,Freelance,575.0,1800.0,1163964.0,0
+57,93908.0,39,Master,Rawalpindi,Private,576.0,3992.0,636190.0,1
+59,38280.0,41,Bachelor,Lahore,Government,797.0,1217.0,1875485.0,1
+26,53254.0,3,Bachelor,Islamabad,Private,628.0,1804.0,827633.0,0
+44,34043.0,25,Master,Lahore,Freelance,622.0,1007.0,740325.0,1
+19,66606.0,0,Master,Lahore,Private,521.0,2149.0,1418678.0,0
+22,82162.0,0,High School,Islamabad,Business,655.0,2837.0,1359759.0,0
+46,66654.0,25,Bachelor,Islamabad,Private,664.0,2989.0,1315819.0,1
+54,91995.0,32,Bachelor,Karachi,Business,730.0,3485.0,2219800.0,1
+55,48518.0,30,Master,Karachi,Private,582.0,2537.0,1871143.0,1
+36,69958.0,16,Master,Islamabad,Freelance,,1555.0,1540660.0,0
+25,53396.0,3,Master,Rawalpindi,Private,712.0,2008.0,1964712.0,1
+62,72957.0,42,Bachelor,Rawalpindi,Business,750.0,2941.0,907626.0,1
+18,76082.0,0,Master,Lahore,Private,570.0,3919.0,1894751.0,0
+39,77813.0,19,High School,Peshawar,Private,756.0,1749.0,1935542.0,0
+34,41447.0,14,High School,Lahore,Government,683.0,1656.0,447258.0,1
+24,45426.0,0,Bachelor,Lahore,Private,756.0,2239.0,2696124.0,1
+42,49506.0,18,High School,Peshawar,Private,675.0,1431.0,1006710.0,1
+62,59745.0,38,Bachelor,Islamabad,Business,503.0,2990.0,1881279.0,1
+21,66918.0,0,Master,Rawalpindi,Business,669.0,1437.0,2847971.0,1
+53,80578.0,28,PhD,Lahore,Private,754.0,3646.0,2633109.0,1
+23,46342.0,1,Bachelor,Peshawar,Business,617.0,2407.0,1830900.0,1
+48,29778.0,26,Bachelor,Karachi,Government,,1273.0,1473751.0,0
+36,112426.0,15,Bachelor,Lahore,Private,668.0,3987.0,2652761.0,1
+61,40108.0,37,Bachelor,Rawalpindi,Freelance,477.0,896.0,2407225.0,1
+56,83399.0,29,High School,Islamabad,Freelance,797.0,4295.0,1243471.0,1
+44,65688.0,23,Master,Lahore,Business,617.0,2398.0,1084596.0,1
+27,70529.0,8,Bachelor,Lahore,Private,715.0,1538.0,100000.0,0
+43,64966.0,22,Bachelor,Peshawar,Freelance,674.0,2847.0,1938629.0,1
+36,56533.0,11,High School,Karachi,Private,768.0,2086.0,1725572.0,1
+56,75207.0,30,Master,Karachi,Private,708.0,1879.0,2822572.0,1
+20,55351.0,0,Master,Islamabad,Private,664.0,1548.0,2123150.0,1
+62,90659.0,38,PhD,Rawalpindi,Business,617.0,2084.0,3000806.0,1
+30,77506.0,4,Master,Islamabad,Freelance,736.0,3098.0,1172372.0,1
+45,78191.0,24,Bachelor,Lahore,Freelance,549.0,3250.0,2824335.0,1
+37,53843.0,10,Bachelor,Lahore,Government,725.0,2029.0,1323975.0,1
+45,59800.0,25,Master,Karachi,Private,603.0,2875.0,2499836.0,1
+25,38866.0,3,Bachelor,Rawalpindi,Private,768.0,1925.0,487117.0,0
+58,57234.0,40,Bachelor,Peshawar,Private,691.0,2367.0,2011622.0,1
+56,42195.0,36,High School,Rawalpindi,Private,725.0,897.0,100000.0,1
+18,93888.0,0,High School,Lahore,Freelance,686.0,4132.0,1559576.0,1
+20,66112.0,0,Bachelor,Peshawar,Government,557.0,2298.0,2196319.0,1
+30,68751.0,9,Bachelor,Rawalpindi,Private,620.0,2728.0,1331128.0,1
+45,60047.0,26,Master,Rawalpindi,Private,727.0,2550.0,854606.0,1
+42,69347.0,17,High School,Peshawar,Private,,2254.0,2561507.0,1
+50,119227.0,25,Bachelor,Lahore,Private,763.0,6129.0,1706883.0,1
+55,58397.0,28,High School,Rawalpindi,Business,708.0,1477.0,1359386.0,1
+23,50691.0,2,High School,Peshawar,Government,612.0,2191.0,1837706.0,0
+61,76653.0,41,Bachelor,Lahore,Freelance,624.0,1608.0,4173002.0,1
+62,20000.0,43,High School,Peshawar,Government,687.0,1033.0,2838153.0,1
+49,66407.0,23,Bachelor,Peshawar,Private,518.0,1633.0,2846316.0,1
+62,56822.0,44,Bachelor,,Private,797.0,1364.0,2191992.0,1
+64,43169.0,40,Bachelor,Lahore,Business,711.0,1379.0,1949837.0,1
+38,76171.0,16,High School,Rawalpindi,Freelance,766.0,2535.0,100000.0,1
+33,66188.0,8,High School,Islamabad,Private,569.0,1852.0,1188918.0,0
+38,25347.0,17,High School,Islamabad,Government,767.0,1022.0,1367483.0,0
+28,50776.0,4,High School,Lahore,Government,836.0,1807.0,112597.0,1
+54,20000.0,32,Bachelor,Peshawar,Government,588.0,439.0,758326.0,0
+53,71452.0,31,Bachelor,Rawalpindi,Business,734.0,2250.0,100000.0,1
+52,71233.0,26,Bachelor,Rawalpindi,Government,680.0,3408.0,1765509.0,1
+36,47548.0,10,Bachelor,Lahore,Government,572.0,2084.0,2536889.0,1
+37,76882.0,11,Master,Lahore,Private,715.0,3459.0,2796097.0,1
+35,36785.0,12,Master,Islamabad,Private,738.0,1622.0,2173306.0,1
+64,43737.0,41,Master,Karachi,Private,638.0,1365.0,932943.0,1
+58,74178.0,36,Master,Lahore,Private,762.0,1792.0,100000.0,1
+31,49849.0,5,Bachelor,Karachi,Freelance,563.0,1491.0,218818.0,0
+32,63622.0,5,Master,Lahore,Freelance,575.0,3089.0,657916.0,0
+48,52600.0,23,Bachelor,Peshawar,Private,690.0,2815.0,1000026.0,1
+18,,0,Bachelor,Peshawar,Freelance,682.0,2087.0,1656226.0,0
+20,56921.0,0,Bachelor,Islamabad,Private,630.0,1204.0,887252.0,1
+33,49451.0,10,Bachelor,Islamabad,Private,737.0,1261.0,2105078.0,1
+40,71654.0,18,Master,Karachi,Private,,2262.0,1590954.0,1
+28,51186.0,7,Bachelor,Lahore,Private,740.0,2054.0,1809491.0,1
+29,65345.0,9,Master,Rawalpindi,Private,671.0,1525.0,2826225.0,1
+27,48968.0,7,Bachelor,Islamabad,Government,722.0,2560.0,737791.0,1
+49,31245.0,26,Bachelor,Rawalpindi,Private,649.0,1031.0,2176834.0,1
+33,85074.0,12,High School,Rawalpindi,Business,824.0,4360.0,1787424.0,1
+25,75990.0,2,High School,Lahore,Private,623.0,3560.0,1499862.0,0
+55,115351.0,35,Master,Karachi,Private,827.0,5308.0,2596731.0,1
+29,42033.0,8,Bachelor,Lahore,Private,,1726.0,2591113.0,0
+41,60403.0,15,Bachelor,Islamabad,Government,584.0,2520.0,948158.0,1
+45,62173.0,23,Master,Rawalpindi,Private,776.0,2617.0,1636055.0,1
+25,86766.0,1,Bachelor,,Freelance,689.0,3626.0,2053091.0,1
+45,53844.0,18,PhD,Lahore,Government,740.0,2116.0,1554294.0,1
+53,39237.0,34,Bachelor,Lahore,Government,766.0,2108.0,2326519.0,1
+43,91572.0,21,Bachelor,,Government,704.0,4143.0,2053073.0,1
+25,58034.0,0,Bachelor,Karachi,Private,639.0,2712.0,3449305.0,1
+45,84330.0,25,High School,Lahore,Private,748.0,4209.0,422749.0,1
+45,81768.0,19,High School,Islamabad,Private,680.0,2291.0,1689808.0,1
+54,64342.0,31,Bachelor,Rawalpindi,Government,728.0,1520.0,982348.0,1
+58,61165.0,37,Master,Peshawar,Private,529.0,2259.0,2343697.0,1
+53,56386.0,29,Master,Islamabad,Private,711.0,2141.0,344545.0,1
+44,64666.0,19,High School,Peshawar,Business,635.0,3135.0,2111681.0,0
+34,83988.0,11,Bachelor,Lahore,Private,796.0,2992.0,1232956.0,1
+26,,4,High School,Lahore,Freelance,724.0,1893.0,1139254.0,0
+50,67395.0,27,High School,Islamabad,Freelance,697.0,2588.0,498152.0,1
+37,40390.0,15,Master,Peshawar,Private,714.0,893.0,1381432.0,1
+30,43130.0,5,Bachelor,Lahore,Private,610.0,1783.0,2776050.0,0
+45,64319.0,27,High School,Rawalpindi,Private,794.0,3115.0,1777330.0,1
+46,21877.0,22,High School,Karachi,Freelance,819.0,571.0,2364912.0,1
+30,110332.0,3,PhD,Karachi,Government,708.0,4484.0,3298178.0,1
+63,38753.0,36,High School,Lahore,Freelance,791.0,1574.0,2037380.0,1
+52,,33,Bachelor,Peshawar,Business,640.0,1687.0,1297080.0,1
+23,90701.0,0,Bachelor,Lahore,Freelance,624.0,2263.0,2220527.0,0
+35,46016.0,17,High School,Peshawar,Private,683.0,2462.0,1310133.0,0
+22,20000.0,0,High School,Rawalpindi,Private,710.0,679.0,1346020.0,0
+64,55211.0,41,,Peshawar,Freelance,652.0,1569.0,432096.0,1
+42,45754.0,16,Master,Lahore,Private,718.0,1215.0,2633632.0,0
+19,20000.0,1,,Rawalpindi,Private,701.0,862.0,1452598.0,0
+27,71268.0,6,Bachelor,Islamabad,Freelance,,2933.0,1963888.0,0
+47,69556.0,26,PhD,Karachi,Private,716.0,2941.0,867634.0,1
+62,90131.0,36,Master,Lahore,Business,740.0,2142.0,2192353.0,1
+22,40342.0,0,Bachelor,Lahore,Freelance,692.0,2042.0,1114253.0,0
+50,29819.0,28,Bachelor,Lahore,Private,761.0,1008.0,1672462.0,1
+18,56052.0,0,,Rawalpindi,Business,595.0,1753.0,2590043.0,0
+35,63056.0,17,Master,Islamabad,Private,713.0,2285.0,2511683.0,0
+49,85270.0,31,Bachelor,Peshawar,Private,598.0,2885.0,1780173.0,1
+64,96032.0,38,Bachelor,Islamabad,Private,602.0,4765.0,208682.0,1
+28,91719.0,8,High School,Rawalpindi,Private,636.0,4752.0,4493530.0,0
+38,71084.0,17,Bachelor,Lahore,Government,614.0,2200.0,3371273.0,1
+43,82589.0,25,Bachelor,Karachi,Private,642.0,4099.0,2450407.0,1
+42,50909.0,16,High School,Lahore,Private,665.0,2387.0,1122117.0,1
+39,68705.0,14,High School,Peshawar,Private,739.0,3563.0,1697767.0,1
+44,38792.0,25,Bachelor,Karachi,Freelance,658.0,1126.0,1310922.0,0
+30,66379.0,5,,Lahore,Freelance,569.0,2659.0,2937470.0,0
+50,66950.0,26,Bachelor,Karachi,Private,760.0,2007.0,2036253.0,1
+51,102887.0,28,Bachelor,Islamabad,Private,621.0,4970.0,1094253.0,1
+58,,40,Bachelor,Rawalpindi,Private,676.0,1260.0,1376320.0,1
+52,66981.0,28,High School,Lahore,Private,711.0,2657.0,2809069.0,0
+18,70213.0,0,Master,Peshawar,Freelance,694.0,2257.0,3240088.0,0
+38,54994.0,14,Master,Islamabad,Freelance,757.0,1737.0,3175498.0,1
+23,47345.0,0,Master,Lahore,Private,714.0,2004.0,2481329.0,1
+45,93574.0,27,Bachelor,Islamabad,Private,620.0,4605.0,1572638.0,0
+34,43420.0,15,Bachelor,Peshawar,Private,832.0,1786.0,100000.0,1
+22,35786.0,0,High School,Lahore,Government,694.0,1763.0,2067444.0,0
+48,79966.0,22,Bachelor,Peshawar,Private,,2371.0,1798354.0,1
+22,90472.0,0,High School,Karachi,Business,,3452.0,1925984.0,0
+55,55069.0,32,PhD,,Freelance,697.0,1974.0,1848508.0,1
+20,55407.0,0,High School,Karachi,Private,708.0,1176.0,606364.0,1
+40,71216.0,19,High School,Lahore,Government,850.0,2805.0,2301668.0,1
+54,49427.0,32,Master,Karachi,Business,661.0,2120.0,2368995.0,0
+54,47802.0,34,PhD,Lahore,Government,658.0,1939.0,2414105.0,1
+27,84351.0,9,Master,Lahore,Private,688.0,3828.0,2651919.0,0
+27,78357.0,9,High School,Rawalpindi,Private,755.0,3125.0,2343646.0,1
+36,93845.0,12,High School,Lahore,Freelance,,2164.0,1430974.0,1
+34,37443.0,16,Bachelor,Karachi,Government,542.0,925.0,1736247.0,0
+38,53946.0,20,High School,Rawalpindi,Freelance,,2196.0,1882012.0,0
+31,71186.0,11,High School,Rawalpindi,Business,566.0,2136.0,1896930.0,1
+26,44636.0,0,Bachelor,Lahore,Business,650.0,1048.0,2698396.0,1
+63,79117.0,42,PhD,Peshawar,Business,715.0,2781.0,2379302.0,1
+18,91942.0,0,Bachelor,Peshawar,Private,618.0,3614.0,3669609.0,0
+62,52166.0,43,Master,Rawalpindi,Government,580.0,1658.0,3785822.0,0
+30,65849.0,12,Master,Lahore,Freelance,685.0,2953.0,1871685.0,1
+21,,1,Bachelor,Peshawar,Freelance,740.0,4103.0,100000.0,1
+18,104584.0,0,Master,Lahore,Government,561.0,3339.0,2913149.0,0
+57,81408.0,37,Bachelor,Lahore,Private,737.0,3744.0,1313661.0,1
+49,78055.0,24,High School,Rawalpindi,Freelance,737.0,3314.0,1078664.0,1
+51,46218.0,24,Master,Rawalpindi,Freelance,747.0,1945.0,1441399.0,0
+45,72903.0,27,High School,Islamabad,Private,765.0,2864.0,1398021.0,1
+48,77250.0,29,PhD,Peshawar,Government,834.0,1639.0,2351043.0,1
+25,60372.0,1,High School,Peshawar,Private,655.0,2659.0,396508.0,1
+56,51915.0,35,Bachelor,Peshawar,Private,688.0,1732.0,830051.0,1
+43,36811.0,18,Bachelor,Karachi,Private,651.0,1924.0,2108843.0,1
+51,26770.0,31,High School,Lahore,Private,680.0,1288.0,2360650.0,1
+20,22147.0,0,High School,Rawalpindi,Government,787.0,895.0,2377387.0,0
+29,77748.0,3,Bachelor,Peshawar,Government,586.0,2273.0,1091667.0,1
+18,68249.0,0,Master,Islamabad,Freelance,620.0,1885.0,919561.0,1
+61,54356.0,43,Master,Peshawar,Freelance,776.0,1749.0,1344029.0,1
+22,57708.0,0,Bachelor,Lahore,Private,751.0,2119.0,2015885.0,0
+47,69630.0,27,Master,Lahore,Private,655.0,2138.0,3136930.0,1
+47,61380.0,25,Master,,Business,740.0,2332.0,100000.0,1
+34,35508.0,16,Master,Karachi,Private,704.0,935.0,1601344.0,1
+64,,42,Bachelor,Rawalpindi,Business,785.0,4546.0,600589.0,1
+40,71691.0,17,Bachelor,Peshawar,Freelance,685.0,1751.0,312982.0,1
+32,70850.0,7,Master,Islamabad,Government,752.0,3677.0,2670261.0,1
+54,83426.0,34,Bachelor,Rawalpindi,Business,850.0,4279.0,2290162.0,1
+38,47100.0,18,Master,Karachi,Private,722.0,1806.0,2204490.0,1
+31,91702.0,4,Bachelor,Rawalpindi,Private,683.0,4126.0,2628923.0,1
+19,61919.0,0,High School,Lahore,Government,731.0,2190.0,1368253.0,1
+28,84549.0,7,High School,Peshawar,Private,654.0,3537.0,1410626.0,0
+56,81158.0,35,Bachelor,Peshawar,Business,847.0,2612.0,3767158.0,1
+55,42146.0,31,,Peshawar,Private,693.0,1301.0,1578086.0,0
+51,76064.0,32,Master,Peshawar,Government,661.0,3051.0,2461619.0,1
+55,72178.0,30,High School,Peshawar,Government,622.0,2702.0,1805743.0,1
+51,65667.0,28,Master,Peshawar,Freelance,757.0,2637.0,136567.0,0
+35,62924.0,15,Master,,Private,741.0,1912.0,100000.0,1
+47,63110.0,21,High School,Karachi,Private,645.0,2087.0,1278914.0,0
+32,82879.0,10,Master,Peshawar,Freelance,720.0,1958.0,2750491.0,0
+44,77714.0,19,PhD,Karachi,Private,574.0,1754.0,2509462.0,0
+51,65671.0,27,Master,Peshawar,Freelance,693.0,1923.0,2622669.0,1
+55,32177.0,30,Master,Rawalpindi,Government,712.0,750.0,911658.0,1
+50,75878.0,26,PhD,Peshawar,Freelance,800.0,1843.0,3254285.0,1
+41,80919.0,21,Bachelor,Lahore,Freelance,626.0,3879.0,931596.0,1
+32,115609.0,13,Bachelor,Islamabad,Private,591.0,2558.0,1991542.0,0
+47,88660.0,23,Master,Rawalpindi,Government,617.0,3794.0,1790683.0,1
+59,23218.0,39,Bachelor,Rawalpindi,Business,586.0,695.0,1643514.0,0
+34,66725.0,14,Bachelor,Lahore,Private,774.0,3329.0,3004733.0,1
+22,104850.0,3,Bachelor,Peshawar,Business,788.0,3879.0,1165401.0,1
+46,78718.0,25,Master,Islamabad,Government,702.0,2442.0,585355.0,0
+21,72230.0,0,High School,Rawalpindi,Private,765.0,2751.0,1817996.0,0
+27,84805.0,9,Master,Islamabad,Private,689.0,2847.0,1440156.0,1
+34,51308.0,16,Bachelor,Rawalpindi,Business,673.0,2034.0,4839645.0,0
+27,75518.0,5,High School,Peshawar,Private,657.0,1862.0,2408857.0,1
+34,59490.0,12,Bachelor,Rawalpindi,Business,658.0,3216.0,1431593.0,1
+37,64568.0,19,High School,Rawalpindi,Business,572.0,2261.0,849500.0,0
+41,83226.0,18,Master,Karachi,Private,698.0,2700.0,107740.0,0
+22,44612.0,4,Master,Peshawar,Private,677.0,1986.0,877303.0,1
+51,93336.0,29,Master,Lahore,Freelance,732.0,3077.0,1903448.0,1
+23,55698.0,0,High School,Lahore,Private,687.0,2707.0,3084596.0,0
+19,70735.0,0,High School,Peshawar,Freelance,669.0,2545.0,2809520.0,0
+30,34189.0,7,Master,Lahore,Private,619.0,1532.0,2006185.0,1
+60,80836.0,35,Master,Peshawar,Government,685.0,1974.0,1509149.0,1
+60,96823.0,42,Bachelor,Lahore,Freelance,732.0,4748.0,2041931.0,1
+28,53678.0,9,Bachelor,Karachi,Private,600.0,2435.0,1333226.0,1
+64,40575.0,38,Bachelor,Lahore,Private,686.0,1132.0,3346528.0,1
+40,71116.0,20,Master,Rawalpindi,Private,696.0,1826.0,1629729.0,0
+33,97006.0,10,Bachelor,Peshawar,Private,630.0,3044.0,1722296.0,0
+48,,26,Bachelor,Islamabad,Government,,1767.0,100000.0,1
+28,40661.0,9,Bachelor,Islamabad,Freelance,696.0,1195.0,1624109.0,1
+33,55008.0,9,Master,Peshawar,Private,601.0,1982.0,2552836.0,1
+25,46952.0,4,High School,Karachi,Government,704.0,1025.0,839050.0,0
+21,47022.0,3,Bachelor,Lahore,Freelance,617.0,1602.0,1124352.0,0
+57,20000.0,36,Bachelor,Karachi,Private,754.0,798.0,2513440.0,1
+21,77959.0,0,High School,Islamabad,Private,844.0,4101.0,471008.0,1
+42,72452.0,18,High School,Peshawar,Business,620.0,2757.0,2752021.0,1
+20,27625.0,0,Master,Peshawar,Freelance,717.0,1330.0,1321070.0,0
+49,97058.0,25,Master,Karachi,Government,629.0,3792.0,1450289.0,0
+20,101984.0,0,Master,Karachi,Government,753.0,2263.0,788509.0,0
+44,48480.0,21,Master,Lahore,Private,591.0,1519.0,2140242.0,1
+46,90664.0,21,Bachelor,Rawalpindi,Government,714.0,3628.0,4013885.0,1
+49,52394.0,28,Master,Rawalpindi,Government,619.0,2752.0,2503348.0,1
+36,68985.0,11,Bachelor,Lahore,Government,666.0,3413.0,1022143.0,1
+38,46613.0,19,Master,Rawalpindi,Private,608.0,1326.0,2822059.0,1
+22,113714.0,0,PhD,Islamabad,Private,738.0,3203.0,1514988.0,1
+35,58488.0,9,Bachelor,Rawalpindi,Private,621.0,1611.0,3037036.0,1
+45,67782.0,19,Bachelor,Lahore,Business,719.0,3496.0,2526009.0,1
+59,49865.0,34,Bachelor,Rawalpindi,Private,656.0,2456.0,100000.0,1
+39,105949.0,12,High School,Peshawar,Government,672.0,4944.0,896328.0,0
+38,106506.0,11,High School,Karachi,Private,690.0,3613.0,2649947.0,1
+23,100880.0,5,,Islamabad,Private,627.0,3798.0,1936492.0,0
+18,,0,PhD,Peshawar,Freelance,695.0,3124.0,878620.0,1
+22,,0,Bachelor,Peshawar,Government,787.0,1501.0,1229769.0,1
+58,83213.0,31,High School,Lahore,Government,626.0,3134.0,100000.0,1
+29,64845.0,7,High School,Karachi,Private,762.0,1417.0,1720464.0,1
+43,93873.0,17,Master,Karachi,Freelance,785.0,2368.0,3789621.0,1
+63,89550.0,41,Bachelor,Islamabad,Private,623.0,4512.0,2524440.0,1
+51,50716.0,32,Bachelor,Lahore,Private,578.0,2327.0,3771375.0,1
+31,85852.0,4,Bachelor,Islamabad,Government,701.0,2999.0,2594157.0,1
+43,80005.0,22,Bachelor,Rawalpindi,Private,642.0,3046.0,2724731.0,0
+62,20000.0,36,Bachelor,Peshawar,Private,811.0,663.0,3576671.0,1
+44,82621.0,26,Master,Islamabad,Government,682.0,3761.0,2139537.0,1
+26,55500.0,8,Bachelor,Peshawar,Freelance,624.0,2607.0,1631495.0,0
+43,45507.0,19,Master,Lahore,Freelance,600.0,2106.0,2729392.0,0
+64,46448.0,44,Bachelor,Rawalpindi,Private,756.0,2086.0,3108456.0,1
+39,62025.0,12,Master,Lahore,Private,,1715.0,1368032.0,1
+64,75561.0,45,Master,Rawalpindi,Private,683.0,2425.0,1150588.0,1
+47,34960.0,21,High School,Rawalpindi,Business,747.0,1276.0,1924970.0,1
+60,69177.0,40,Bachelor,Peshawar,Government,646.0,2204.0,2548349.0,1
+34,77689.0,15,Bachelor,Lahore,Freelance,677.0,3574.0,2518282.0,1
+43,105960.0,18,Master,Lahore,Private,679.0,3371.0,518249.0,1
+53,41313.0,26,Bachelor,Islamabad,Government,728.0,1051.0,3520445.0,1
+18,57309.0,0,PhD,Lahore,Private,,1956.0,1222952.0,1
+25,70757.0,2,High School,Islamabad,Government,665.0,3785.0,1561442.0,0
+52,90243.0,25,Master,Karachi,Business,684.0,2560.0,987611.0,1
+32,58307.0,8,Master,Karachi,Business,654.0,2405.0,4228496.0,0
+64,91370.0,40,Master,Karachi,Government,577.0,3222.0,2017864.0,1
+39,22378.0,16,Bachelor,Lahore,Government,698.0,519.0,1034122.0,1
+31,37426.0,10,Bachelor,Lahore,Business,812.0,1388.0,2577531.0,1
+43,72670.0,17,Master,Islamabad,Freelance,618.0,3215.0,2492222.0,0
+45,33962.0,22,Bachelor,Rawalpindi,Private,626.0,1289.0,1631046.0,1
+40,39162.0,19,Bachelor,Islamabad,Government,619.0,1954.0,2556546.0,1
+31,53389.0,11,Bachelor,Karachi,Private,731.0,1626.0,1057237.0,0
+41,81972.0,20,Bachelor,Islamabad,Government,711.0,1943.0,1356374.0,1
+19,23289.0,0,Bachelor,Rawalpindi,Government,669.0,1212.0,100000.0,1
+62,68747.0,43,Bachelor,Lahore,Government,616.0,2299.0,608444.0,1
+43,87725.0,21,Bachelor,Islamabad,Private,686.0,3513.0,3426868.0,1
+31,60711.0,12,Master,Karachi,Private,570.0,2868.0,3277286.0,0
+24,56886.0,1,Master,Karachi,Government,690.0,1800.0,1859210.0,0
+20,73839.0,0,Master,Lahore,Freelance,741.0,3301.0,3296638.0,1
+64,60774.0,41,PhD,Islamabad,Freelance,592.0,1540.0,1655933.0,1
+40,95591.0,13,Bachelor,Rawalpindi,Private,573.0,2920.0,1580931.0,1
+63,40549.0,37,High School,Lahore,Business,791.0,1040.0,1850860.0,1
+60,63864.0,42,High School,Islamabad,Business,637.0,3057.0,1687571.0,1
+64,69525.0,41,Bachelor,Peshawar,Private,760.0,1964.0,1606323.0,1
+62,56674.0,36,PhD,Karachi,Private,669.0,2536.0,2829058.0,1
+35,20000.0,14,Bachelor,Rawalpindi,Freelance,669.0,1046.0,1935122.0,0
+55,61460.0,36,Bachelor,Rawalpindi,Freelance,711.0,2362.0,2441234.0,1
+52,84804.0,31,Bachelor,Rawalpindi,Business,618.0,3293.0,2728242.0,1
+32,82118.0,14,Bachelor,Karachi,Business,689.0,2973.0,2149367.0,1
+42,72805.0,22,Master,Islamabad,Government,653.0,2308.0,926756.0,0
+54,40847.0,27,High School,Lahore,Government,588.0,1499.0,582421.0,1
+45,73697.0,19,PhD,Islamabad,Private,704.0,3016.0,1933903.0,1
+27,52384.0,0,Bachelor,Lahore,Private,662.0,2813.0,1645869.0,0
+56,72777.0,34,High School,Rawalpindi,Government,669.0,3791.0,1878652.0,1
+34,67673.0,11,Master,Islamabad,Government,595.0,3355.0,1785551.0,0
+56,43520.0,36,High School,Rawalpindi,Government,,2196.0,4125216.0,1
+39,45366.0,17,Master,Peshawar,Freelance,741.0,1653.0,602796.0,0
+43,72810.0,18,PhD,Rawalpindi,Private,747.0,3112.0,100000.0,1
+61,60136.0,38,Master,,Government,659.0,3047.0,2099139.0,1
+42,46514.0,21,Master,Lahore,Private,559.0,1578.0,1461220.0,1
+34,44698.0,15,Bachelor,Peshawar,Private,817.0,2364.0,2084461.0,1
+30,58316.0,4,PhD,Rawalpindi,Freelance,676.0,2023.0,2325495.0,0
+37,99498.0,19,Bachelor,Rawalpindi,Freelance,628.0,4066.0,2955694.0,0
+42,53426.0,24,Master,Peshawar,Business,709.0,2377.0,443497.0,1
+21,64692.0,0,Master,Peshawar,Private,762.0,3398.0,1298954.0,1
+27,67236.0,3,PhD,Islamabad,Government,678.0,1949.0,2185885.0,1
+20,40117.0,2,Master,Lahore,Private,770.0,1834.0,2493417.0,1
+58,26218.0,32,Bachelor,Peshawar,Private,756.0,1001.0,3774105.0,1
+62,42414.0,41,PhD,Peshawar,Business,605.0,1263.0,2660134.0,1
+35,70436.0,15,Bachelor,Karachi,Freelance,633.0,3291.0,1748890.0,1
+64,66921.0,46,PhD,Peshawar,Business,747.0,2626.0,998608.0,1
+53,80453.0,26,Master,Lahore,Private,490.0,3449.0,1292139.0,1
+64,67128.0,43,Bachelor,Rawalpindi,Business,670.0,2121.0,1266567.0,1
+39,62590.0,13,Bachelor,Rawalpindi,Private,580.0,2308.0,2389710.0,1
+51,51712.0,24,Bachelor,Rawalpindi,Business,647.0,2141.0,2031298.0,1
+64,84461.0,41,Master,Rawalpindi,Private,659.0,2900.0,608715.0,1
+25,44778.0,2,Bachelor,Karachi,Private,655.0,1229.0,1407689.0,1
+57,40571.0,39,Bachelor,Peshawar,Government,641.0,2146.0,2589793.0,1
+61,77475.0,34,Bachelor,Rawalpindi,Business,,2935.0,2116496.0,1
+36,35671.0,17,Master,Islamabad,Private,840.0,1616.0,2311780.0,0
+59,118125.0,36,Bachelor,Rawalpindi,Private,811.0,4079.0,2144630.0,1
+58,66760.0,39,High School,Peshawar,Business,599.0,2181.0,3263788.0,1
+54,72654.0,34,High School,Rawalpindi,Private,791.0,2500.0,2012439.0,1
+23,47215.0,2,High School,Karachi,Private,652.0,1628.0,1452579.0,0
+43,58064.0,21,Bachelor,Lahore,Private,689.0,2263.0,975820.0,1
+51,55611.0,25,High School,Lahore,Private,676.0,2166.0,2024649.0,1
+62,53080.0,41,High School,Peshawar,Business,634.0,1985.0,100000.0,0
+23,78925.0,0,PhD,Lahore,Freelance,749.0,1999.0,1634140.0,1
+54,55109.0,27,Master,Lahore,Government,689.0,2059.0,1614744.0,0
+50,87385.0,30,Bachelor,Islamabad,Business,647.0,2313.0,571976.0,1
+39,123590.0,14,PhD,Peshawar,Government,589.0,3094.0,964561.0,1
+38,58498.0,20,High School,Peshawar,Private,617.0,3037.0,2528692.0,1
+23,68351.0,0,Bachelor,Lahore,Private,565.0,2802.0,2007641.0,0
+23,73349.0,0,Bachelor,Lahore,Private,681.0,3141.0,1891610.0,0
+21,104853.0,0,Bachelor,Lahore,Private,596.0,3589.0,2075713.0,0
+47,63182.0,28,Bachelor,Karachi,Business,661.0,3231.0,1883365.0,1
+28,46762.0,7,Bachelor,Rawalpindi,Freelance,776.0,1969.0,2918576.0,0
+47,37141.0,22,Bachelor,Karachi,Private,764.0,1726.0,1911086.0,1
+48,63724.0,24,Master,Peshawar,Government,678.0,2110.0,487608.0,0
+41,55136.0,23,High School,Islamabad,Freelance,674.0,2913.0,3267117.0,0
+26,,4,High School,Rawalpindi,Business,812.0,5262.0,2133306.0,1
+20,103937.0,0,High School,Islamabad,Business,716.0,5124.0,1269672.0,0
+48,42244.0,27,Bachelor,Peshawar,Government,657.0,1123.0,671938.0,1
+57,49363.0,39,Bachelor,Peshawar,Freelance,580.0,1474.0,2156323.0,1
+54,66623.0,28,High School,Islamabad,Government,708.0,2022.0,1694545.0,1
+53,95739.0,31,Master,Islamabad,Government,738.0,2859.0,3216732.0,1
+41,66254.0,22,Bachelor,Islamabad,Private,636.0,3269.0,1488683.0,1
+48,50761.0,23,High School,Peshawar,Private,700.0,1111.0,1046357.0,1
+23,63705.0,4,Master,Lahore,Government,655.0,1489.0,2606217.0,1
+19,51173.0,0,High School,Islamabad,Private,667.0,1533.0,2632754.0,1
+37,78254.0,10,Bachelor,Rawalpindi,Private,506.0,2152.0,1951786.0,0
+45,49401.0,27,Master,Peshawar,Freelance,664.0,1411.0,2408721.0,1
+28,53770.0,9,Bachelor,Karachi,Private,748.0,2550.0,1766082.0,1
+21,90563.0,0,High School,Karachi,Government,636.0,3587.0,2010479.0,0
+32,48096.0,5,Bachelor,Rawalpindi,Government,684.0,1011.0,2848492.0,0
+23,33185.0,4,High School,Lahore,Business,627.0,1166.0,2362787.0,0
+47,67090.0,24,High School,,Government,705.0,2310.0,1647653.0,1
+55,57070.0,35,Bachelor,Peshawar,Private,665.0,1406.0,3017126.0,1
+19,76251.0,0,Bachelor,Islamabad,Government,614.0,3307.0,100000.0,1
+32,71984.0,7,Bachelor,Peshawar,Freelance,773.0,3184.0,3646866.0,0
+28,64298.0,8,Master,Karachi,Business,745.0,2885.0,264637.0,1
+25,63657.0,0,Bachelor,Islamabad,Private,638.0,2872.0,1235616.0,0
+43,48811.0,20,High School,Rawalpindi,Private,715.0,1017.0,1763174.0,1
+62,66834.0,44,High School,Lahore,Business,718.0,3518.0,1668167.0,1
+61,84388.0,37,Master,Rawalpindi,Private,725.0,4048.0,2705770.0,1
+22,43584.0,0,Bachelor,Lahore,Government,561.0,2221.0,847947.0,0
+23,64881.0,0,Master,Islamabad,Private,750.0,1386.0,2034690.0,0
+43,87845.0,23,Bachelor,Islamabad,Private,640.0,4565.0,1279609.0,0
+21,76119.0,0,Bachelor,Lahore,Private,655.0,3640.0,2065627.0,1
+36,93808.0,18,Bachelor,Karachi,Private,850.0,4572.0,1741705.0,1
+37,52501.0,11,Bachelor,Peshawar,Freelance,701.0,1257.0,1883642.0,0
+50,24723.0,27,Bachelor,Rawalpindi,Business,653.0,1124.0,1305068.0,0
+37,69414.0,11,Bachelor,Rawalpindi,Private,526.0,3667.0,1340942.0,0
+29,72977.0,5,Bachelor,Rawalpindi,Freelance,777.0,3171.0,2058545.0,1
+64,95105.0,46,Bachelor,Islamabad,Private,586.0,3790.0,2649344.0,1
+18,91139.0,0,Master,Rawalpindi,Government,610.0,4772.0,1261549.0,1
+43,76808.0,20,Master,Peshawar,Private,657.0,2734.0,1018109.0,1
+31,81839.0,9,Bachelor,Peshawar,Business,779.0,3340.0,2352114.0,0
+55,60780.0,29,Bachelor,Lahore,Freelance,,2231.0,1770746.0,1
+54,38179.0,35,High School,Islamabad,Freelance,669.0,1983.0,2547448.0,0
+28,67590.0,3,Master,Peshawar,Freelance,702.0,1580.0,984783.0,1
+53,86617.0,31,Bachelor,Karachi,Government,638.0,3251.0,198505.0,1
+30,79440.0,11,PhD,Islamabad,Business,690.0,3474.0,1320296.0,1
+60,83344.0,33,Bachelor,Islamabad,Freelance,685.0,3936.0,1110283.0,1
+20,55589.0,0,Bachelor,Peshawar,Business,748.0,2238.0,1729090.0,1
+50,59158.0,23,Bachelor,Karachi,Government,748.0,3025.0,1226839.0,1
+23,75635.0,0,Master,Lahore,Private,715.0,3951.0,2466915.0,0
+27,52977.0,6,Bachelor,Peshawar,Government,655.0,1217.0,1540665.0,1
+22,53654.0,3,Bachelor,Karachi,Private,732.0,1837.0,1935427.0,0
+40,71556.0,18,PhD,Islamabad,Government,674.0,1547.0,1941871.0,1
+27,81740.0,8,High School,Karachi,Government,604.0,2600.0,1975460.0,1
+61,60610.0,42,Master,Islamabad,Government,652.0,2347.0,1778284.0,1
+19,39410.0,0,High School,,Private,686.0,2018.0,2259541.0,0
+30,48812.0,3,Master,Peshawar,Private,744.0,2394.0,1083910.0,0
+57,69481.0,31,Bachelor,Rawalpindi,Government,667.0,1743.0,3059476.0,1
+19,69213.0,0,,Rawalpindi,Business,595.0,1657.0,1587116.0,1
+37,70307.0,14,Master,Rawalpindi,Private,684.0,2846.0,619606.0,1
+18,76468.0,0,High School,Peshawar,Private,688.0,2949.0,1969266.0,0
+54,65128.0,31,Bachelor,Lahore,Freelance,693.0,1935.0,1033938.0,1
+26,70831.0,1,Bachelor,Peshawar,Government,744.0,3599.0,2398801.0,1
+34,64009.0,13,Bachelor,Karachi,Private,751.0,3312.0,3788645.0,1
+26,90272.0,8,Bachelor,Peshawar,Private,638.0,3092.0,1092085.0,1
+28,96512.0,4,High School,Peshawar,Private,637.0,4875.0,2099135.0,1
+32,,12,High School,Islamabad,Business,607.0,1306.0,220045.0,0
+41,59384.0,18,High School,Islamabad,Private,729.0,2696.0,2208515.0,0
+55,65720.0,36,High School,Islamabad,Private,781.0,2412.0,1002858.0,1
+52,59128.0,26,Bachelor,Peshawar,Private,658.0,1473.0,1237649.0,1
+47,104444.0,29,Master,Lahore,Private,663.0,5406.0,808842.0,1
+48,69927.0,25,Master,Karachi,Freelance,783.0,2515.0,2458936.0,1
+22,47282.0,0,Master,Karachi,Private,715.0,2143.0,2706574.0,0
+61,78122.0,39,High School,Lahore,Private,711.0,2584.0,1821047.0,1
+31,70961.0,9,Bachelor,Lahore,Government,597.0,1523.0,1022016.0,1
+28,71692.0,10,High School,Karachi,Private,728.0,1734.0,3230571.0,1
+26,104773.0,0,Bachelor,Rawalpindi,Private,615.0,3916.0,1124631.0,0
+51,72717.0,29,Bachelor,Islamabad,Freelance,601.0,3187.0,100000.0,1
+29,58319.0,10,High School,Islamabad,Freelance,656.0,1866.0,2212550.0,0
+52,21984.0,28,Bachelor,Karachi,Business,639.0,968.0,805703.0,1
+52,61361.0,32,PhD,Lahore,Business,664.0,2707.0,2689748.0,1
+18,93731.0,0,Bachelor,Rawalpindi,Freelance,579.0,4152.0,1456976.0,0
+57,62994.0,37,Bachelor,Karachi,Private,747.0,2347.0,2343342.0,1
+39,20000.0,19,High School,Islamabad,Freelance,759.0,1027.0,3061350.0,0
+46,54036.0,25,Bachelor,Peshawar,Freelance,544.0,2007.0,712027.0,1
+25,86839.0,3,Master,Lahore,Freelance,748.0,3112.0,1290657.0,1
+28,77008.0,10,High School,Peshawar,Government,623.0,2116.0,1731896.0,1
+58,46523.0,37,Bachelor,Karachi,Private,740.0,1446.0,3183796.0,1
+54,,29,High School,Islamabad,Freelance,675.0,1169.0,1207456.0,1
+31,55964.0,4,Bachelor,Rawalpindi,Freelance,682.0,2348.0,1264947.0,0
+47,50420.0,23,High School,Peshawar,Business,667.0,1468.0,2230327.0,1
+52,20347.0,26,Master,Rawalpindi,Private,765.0,630.0,1280494.0,1
+38,81799.0,16,Master,Islamabad,Private,593.0,3806.0,1937273.0,0
+54,92655.0,27,Master,Peshawar,Private,723.0,2941.0,403616.0,1
+22,31594.0,1,Bachelor,Rawalpindi,Freelance,757.0,913.0,3792897.0,0
+36,92365.0,11,Master,Rawalpindi,Private,730.0,2445.0,587062.0,1
+31,62733.0,5,Bachelor,Peshawar,Private,843.0,2927.0,1510423.0,1
+43,91953.0,19,Bachelor,Islamabad,Business,643.0,2313.0,1770767.0,0
+21,65835.0,0,Bachelor,Rawalpindi,Private,747.0,2367.0,3521419.0,1
+42,67982.0,20,High School,Karachi,Freelance,673.0,2565.0,607639.0,0
+62,73194.0,41,High School,Peshawar,Private,766.0,3202.0,3585334.0,1
+59,47619.0,32,Master,Lahore,Freelance,679.0,1997.0,2481459.0,1
+42,91283.0,24,Bachelor,Lahore,Government,653.0,4369.0,2175386.0,1
+35,40330.0,8,Bachelor,Islamabad,Business,771.0,900.0,913830.0,1
+57,,30,Bachelor,Karachi,Business,646.0,1725.0,2314027.0,1
+25,76534.0,1,Master,Rawalpindi,Private,581.0,2309.0,1148862.0,0
+56,53798.0,38,PhD,Lahore,Private,644.0,1383.0,2939995.0,1
+57,82106.0,39,Master,Islamabad,Private,723.0,2502.0,926044.0,1
+31,95269.0,9,Bachelor,Karachi,Freelance,777.0,2968.0,1698157.0,1
+49,87276.0,23,High School,Karachi,Business,688.0,3337.0,1300254.0,1
+55,22405.0,32,Bachelor,Islamabad,Government,772.0,962.0,911229.0,1
+50,67769.0,30,High School,Islamabad,Government,585.0,2273.0,2467188.0,1
+40,87631.0,20,High School,Rawalpindi,Private,649.0,3927.0,2281913.0,0
+32,36032.0,8,Bachelor,Islamabad,Freelance,660.0,1154.0,2888109.0,1
+50,80919.0,27,Bachelor,Rawalpindi,Business,672.0,2469.0,198112.0,1
+42,79684.0,16,PhD,Rawalpindi,Private,686.0,3098.0,2757754.0,1
+34,38334.0,11,,Peshawar,Government,728.0,829.0,4054904.0,1
+50,83353.0,28,Bachelor,Karachi,Private,649.0,1958.0,1393523.0,1
+64,70999.0,37,High School,Karachi,Government,690.0,2468.0,3505634.0,1
+19,79308.0,0,Master,Karachi,Government,677.0,4145.0,1563155.0,0
+31,43741.0,13,Master,Peshawar,Private,615.0,1963.0,564831.0,0
+57,68303.0,33,Master,Rawalpindi,Private,672.0,1624.0,1524931.0,1
+57,27493.0,37,Master,Rawalpindi,Private,670.0,1348.0,2743384.0,1
+56,20000.0,30,Bachelor,Islamabad,Government,668.0,905.0,1045641.0,1
+23,,0,Bachelor,Peshawar,Government,682.0,2806.0,1259695.0,1
+23,89213.0,0,Bachelor,Islamabad,Private,685.0,4298.0,2334185.0,0
+20,70565.0,0,Bachelor,Peshawar,Freelance,650.0,2421.0,1802754.0,0
+24,63604.0,0,Bachelor,Islamabad,Freelance,769.0,1795.0,2326161.0,1
+25,60874.0,4,Bachelor,Lahore,Private,598.0,2307.0,2014047.0,0
+59,44264.0,35,PhD,Karachi,Private,630.0,1732.0,2231663.0,1
+32,60119.0,14,PhD,Karachi,Freelance,850.0,2331.0,1410929.0,1
+64,74277.0,40,Master,Rawalpindi,Business,607.0,2947.0,2008558.0,1
+46,55425.0,21,Master,Lahore,Private,585.0,2907.0,965364.0,1
+50,81513.0,28,Master,Karachi,Private,731.0,4150.0,2959590.0,1
+47,69311.0,28,High School,Rawalpindi,Private,535.0,3467.0,1229153.0,0
+56,71974.0,34,High School,Lahore,Government,664.0,3422.0,2815963.0,1
+44,84551.0,21,Master,Karachi,Private,830.0,4420.0,1589754.0,1
+53,53411.0,34,Master,Islamabad,Private,,1288.0,1981799.0,1
+46,79506.0,23,High School,Peshawar,Freelance,541.0,2359.0,1354532.0,1
+55,56498.0,32,Master,Lahore,Government,575.0,2109.0,885604.0,1
+50,72469.0,32,High School,Rawalpindi,Private,743.0,3555.0,229716.0,1
+54,50793.0,36,Bachelor,Lahore,Private,759.0,1913.0,850208.0,1
+44,44965.0,17,Master,Rawalpindi,Government,644.0,2058.0,1508482.0,1
+50,67021.0,30,High School,Lahore,Private,728.0,1707.0,1990691.0,1
+21,23526.0,0,High School,Rawalpindi,Private,777.0,688.0,2709341.0,0
+39,58482.0,12,Bachelor,Karachi,Business,805.0,2645.0,1398818.0,1
+19,29660.0,0,Master,Islamabad,Private,663.0,781.0,1006235.0,0
+27,82143.0,6,Bachelor,Karachi,Freelance,519.0,2673.0,501557.0,1
+22,88102.0,3,Master,Islamabad,Business,623.0,2613.0,2232057.0,1
+27,45993.0,1,Bachelor,Karachi,Private,650.0,1495.0,3044875.0,0
+50,74423.0,23,High School,Karachi,Private,662.0,3308.0,2939697.0,0
+55,,31,PhD,Lahore,Government,667.0,2806.0,2438939.0,1
+30,84854.0,6,High School,Peshawar,Business,758.0,3338.0,2374689.0,1
+48,69718.0,25,PhD,,Business,769.0,1685.0,3327861.0,1
+64,81155.0,44,Bachelor,Rawalpindi,Freelance,668.0,3868.0,2098873.0,1
+53,50715.0,30,PhD,Rawalpindi,Private,757.0,1682.0,2381517.0,1
+62,66829.0,37,High School,Islamabad,Freelance,705.0,2837.0,1511295.0,1
+41,54724.0,16,Bachelor,Rawalpindi,Private,685.0,2463.0,574161.0,0
+32,48857.0,6,High School,Rawalpindi,Government,743.0,1359.0,1184536.0,1
+46,65793.0,28,High School,Lahore,Private,685.0,3311.0,1791757.0,1
+25,72646.0,7,Bachelor,Karachi,Private,824.0,3006.0,1854707.0,0
+22,90597.0,2,Bachelor,Rawalpindi,Freelance,579.0,3182.0,3533657.0,0
+46,70833.0,26,Bachelor,Peshawar,Government,644.0,1906.0,1873149.0,1
+64,79122.0,37,High School,Rawalpindi,Private,671.0,4134.0,2860959.0,1
+21,79372.0,0,Bachelor,Islamabad,Private,711.0,3651.0,1408430.0,1
+29,124126.0,2,,Islamabad,Business,769.0,3447.0,1519492.0,1
+62,25179.0,44,Bachelor,Islamabad,Freelance,678.0,808.0,603893.0,1
+19,49865.0,0,Bachelor,Rawalpindi,Private,580.0,2385.0,1131905.0,1
+44,97429.0,25,Bachelor,Lahore,Private,739.0,4289.0,2274283.0,0
+48,57256.0,28,Master,Peshawar,Private,,2654.0,1806804.0,1
+53,84488.0,30,Bachelor,Rawalpindi,Business,544.0,3003.0,2648645.0,1
+53,70060.0,35,Master,Lahore,Government,680.0,3133.0,1963129.0,1
+43,111314.0,24,PhD,Lahore,Government,569.0,3753.0,1482792.0,1
+60,40513.0,42,Master,Rawalpindi,Government,633.0,1129.0,3733467.0,1
+44,91880.0,22,Bachelor,Rawalpindi,Private,617.0,3852.0,1715487.0,0
+22,103491.0,0,Bachelor,Lahore,Freelance,737.0,5523.0,2846701.0,0
+37,42683.0,12,Master,Lahore,Government,688.0,1331.0,1438912.0,0
+28,82223.0,1,Bachelor,Lahore,Private,590.0,2976.0,2438640.0,0
+27,43759.0,9,High School,Rawalpindi,Private,742.0,1895.0,2635214.0,1
+57,65664.0,33,High School,Lahore,Government,580.0,2553.0,1987643.0,1
+55,59355.0,33,Master,Islamabad,Business,703.0,2905.0,100000.0,1
+23,20000.0,0,Bachelor,Rawalpindi,Private,623.0,924.0,1816427.0,0
+25,74333.0,7,Master,Islamabad,Business,654.0,1693.0,2907414.0,1
+40,68153.0,20,Bachelor,Karachi,Freelance,715.0,3688.0,2274733.0,1
+64,97540.0,40,Bachelor,Rawalpindi,Private,717.0,4478.0,2201255.0,1
+43,78445.0,16,High School,Karachi,Private,774.0,3893.0,249969.0,1
+63,115399.0,45,High School,Lahore,Private,674.0,4909.0,1151590.0,1
+60,67355.0,36,PhD,Lahore,Freelance,701.0,3326.0,2170222.0,1
+29,62678.0,7,Master,Peshawar,Private,649.0,1541.0,2169345.0,0
+43,60944.0,25,Master,Lahore,Private,693.0,1976.0,2893200.0,1
+30,55329.0,12,Bachelor,Karachi,Government,711.0,2769.0,1669620.0,1
+57,20000.0,39,Master,Lahore,Freelance,673.0,551.0,2165242.0,1
+35,60156.0,9,Bachelor,Rawalpindi,Private,554.0,1410.0,1814737.0,0
+42,20000.0,22,Bachelor,Lahore,Private,703.0,942.0,911752.0,0
+50,74945.0,28,High School,Peshawar,Government,706.0,3649.0,100000.0,1
+64,37719.0,37,Bachelor,Lahore,Government,632.0,990.0,2187909.0,1
+57,45325.0,31,Master,Karachi,Freelance,590.0,2235.0,1956552.0,1
+60,50273.0,37,PhD,Karachi,Private,783.0,2198.0,1243642.0,1
+29,60491.0,3,High School,Lahore,Freelance,714.0,2309.0,342744.0,1
+61,65151.0,36,Master,Karachi,Freelance,664.0,3160.0,2366766.0,1
+53,88859.0,28,Bachelor,Karachi,Government,600.0,3093.0,1560672.0,1
+21,52294.0,3,Bachelor,Peshawar,Freelance,622.0,1428.0,2301187.0,1
+22,75563.0,0,High School,Rawalpindi,Private,771.0,2292.0,3477644.0,1
+54,125079.0,31,Bachelor,Peshawar,Private,690.0,4712.0,100000.0,1
+25,73302.0,0,Bachelor,Islamabad,Freelance,641.0,2825.0,1170359.0,0
+59,61029.0,39,Bachelor,,Government,716.0,2910.0,1611562.0,1
+45,47859.0,25,Master,Lahore,Government,623.0,2260.0,3109344.0,1
+48,60725.0,25,Master,Rawalpindi,Private,785.0,2442.0,327237.0,1
+26,45503.0,0,Bachelor,Lahore,Business,775.0,2132.0,3542275.0,1
+46,70911.0,22,PhD,Islamabad,Government,647.0,1931.0,1922270.0,1
+31,67278.0,11,Bachelor,Rawalpindi,Private,636.0,1514.0,1713599.0,0
+57,20000.0,37,Bachelor,Karachi,Private,497.0,999.0,1621746.0,0
+58,64592.0,39,Master,Peshawar,Freelance,576.0,1508.0,1407363.0,1
+39,,13,High School,Lahore,Freelance,586.0,2577.0,2743305.0,1
+28,56220.0,8,Bachelor,Islamabad,Government,689.0,2474.0,838331.0,1
+40,50636.0,18,Bachelor,Karachi,Business,657.0,1746.0,2110873.0,0
+18,34691.0,0,High School,Peshawar,Private,586.0,1736.0,1454237.0,0
+63,24124.0,38,Master,Karachi,Private,660.0,742.0,1114080.0,1
+54,83290.0,35,Bachelor,Peshawar,Business,715.0,1768.0,4127378.0,1
+38,61007.0,18,Bachelor,Rawalpindi,Business,717.0,1882.0,2177146.0,1
+43,81984.0,24,High School,Karachi,Freelance,547.0,3288.0,2351939.0,1
+63,98689.0,38,Master,Karachi,Business,671.0,3293.0,2823999.0,1
+53,85267.0,30,Bachelor,Karachi,Private,583.0,3297.0,520785.0,1
+40,53068.0,17,Master,Rawalpindi,Business,743.0,2656.0,3377063.0,1
+18,68187.0,0,,Islamabad,Private,735.0,3495.0,100000.0,0
+57,51475.0,32,High School,Peshawar,Private,617.0,1529.0,1108110.0,1
+32,49418.0,11,Bachelor,Karachi,Private,626.0,1791.0,1386871.0,0
+38,72542.0,17,High School,Rawalpindi,Private,648.0,2839.0,2323551.0,0
+64,46690.0,38,Bachelor,Islamabad,Private,522.0,2450.0,1996846.0,1
+26,20000.0,8,Bachelor,Peshawar,Private,704.0,1082.0,1649867.0,1
+26,45461.0,7,Master,Rawalpindi,Private,661.0,1304.0,1789202.0,0
+27,58249.0,8,High School,Peshawar,Private,748.0,2625.0,919779.0,1
+43,98471.0,20,,Karachi,Government,603.0,3292.0,452491.0,1
+58,54199.0,37,High School,Islamabad,Private,637.0,1144.0,2453860.0,1
+52,76262.0,25,,Rawalpindi,Private,575.0,1612.0,2424336.0,1
+42,61297.0,22,Bachelor,Islamabad,Freelance,610.0,2218.0,3226045.0,1
+43,91981.0,23,,Karachi,Business,597.0,3414.0,1088985.0,1
+28,90456.0,8,Bachelor,Islamabad,Freelance,750.0,1953.0,2423534.0,0
+55,90876.0,32,High School,Islamabad,Private,631.0,3974.0,1544664.0,1
+19,26852.0,0,Bachelor,Lahore,Freelance,,823.0,2871427.0,0
+24,69548.0,0,High School,Islamabad,Private,653.0,2747.0,2719766.0,1
+35,81697.0,14,High School,Peshawar,Private,591.0,2521.0,1990088.0,1
+44,73394.0,23,Bachelor,Rawalpindi,Private,668.0,1938.0,1494423.0,0
+51,79005.0,24,High School,Lahore,Freelance,722.0,2718.0,2664839.0,1
+44,66284.0,25,High School,Rawalpindi,Private,595.0,1894.0,2382214.0,1
+34,48615.0,16,Master,Rawalpindi,Private,737.0,1879.0,1184004.0,1
+60,27664.0,34,Bachelor,Karachi,Private,621.0,760.0,604981.0,1
+61,50797.0,42,High School,Karachi,Business,646.0,1919.0,1540320.0,0
+41,123918.0,16,Bachelor,Lahore,Government,717.0,3232.0,3163872.0,1
+42,54316.0,16,Bachelor,Karachi,Private,634.0,2346.0,2831838.0,1
+24,21893.0,3,,Karachi,Government,683.0,1006.0,798905.0,0
+23,81118.0,0,Bachelor,Karachi,Government,658.0,1988.0,749018.0,0
+41,83820.0,15,High School,Rawalpindi,Freelance,689.0,3053.0,2947215.0,1
+50,93321.0,23,Bachelor,Lahore,Private,513.0,2165.0,777928.0,1
+46,75362.0,19,Bachelor,Rawalpindi,Business,552.0,3073.0,2258366.0,1
+60,83603.0,38,Bachelor,Peshawar,Private,723.0,2479.0,1245536.0,1
