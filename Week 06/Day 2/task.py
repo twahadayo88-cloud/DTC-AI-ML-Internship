@@ -64,3 +64,18 @@ plt.savefig(
 )
 
 plt.show()
+
+variance = pca.explained_variance_ratio_
+plt.bar(
+    ["PC1", "PC2"],
+    variance
+)
+plt.xlabel("Principal Components")
+plt.ylabel(" Variance Ratio")
+plt.title("PCA Variance")
+plt.savefig(
+    "pca_explained_variance.png",
+    dpi=300,
+    bbox_inches="tight"
+)
+plt.show()
