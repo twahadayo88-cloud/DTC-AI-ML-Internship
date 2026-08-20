@@ -25,3 +25,14 @@ print("Sentence Tokens:", sentences)
 words = word_tokenize(sample_text)
 print("Work Tokens:")
 print(words)
+
+#calculating words and token in each document
+data["WordCount"] = data["ReviewText"].apply(word_tokenize).apply(len)
+print("\nWords Per Document:")
+print(data[["ReviewID","WordCount"]])
+
+
+#calculating the average documnet lenght
+average_document_length = data["WordCount"].mean()
+print("\nAverage Document length:")
+print(round(average_document_length))
