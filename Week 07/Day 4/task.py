@@ -8,17 +8,17 @@ from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 
 df = pd.read_csv("Week 07/Day 4/dataset.csv")
 
-print("\nDataset First 5 Rows:")
+print("Dataset First 5 Rows:")
 print(df.head())
-print("\nDataset Shape:")
+print("Dataset Shape:")
 print(df.shape)
-print("\nDataset Columns:")
+print("Dataset Columns:")
 print(df.columns)
-print("\nDataset Information:")
+print("Dataset Information:")
 print(df.info())
-print("\nMissing Values:")
+print("Missing Values:")
 print(df.isnull().sum())
-print("\nDuplicate Rows:")
+print("Duplicate Rows:")
 print(df.duplicated().sum())
 
 # 3. CREATE TEXT CLEANING FUNCTION
@@ -43,7 +43,7 @@ print(df[["review", "clean_text"]].head())
 # 5. HANDLE EMPTY TEXT
 df = df.dropna(subset=["clean_text"])
 df = df[df["clean_text"].str.strip() != ""]
-print("\nDataset Shape After Cleaning:")
+print("Dataset Shape After Cleaning:")
 print(df.shape)
 
 # 6. BAG OF WORDS USING COUNTVECTORIZER
@@ -51,22 +51,22 @@ count_vectorizer = CountVectorizer()
 bow_matrix = count_vectorizer.fit_transform(
     df["clean_text"]
 )
-print("\nBag of Words Matrix:")
+print("Bag of Words Matrix:")
 print(bow_matrix)
 
 # 7. CHECK MATRIX DIMENSIONS
-print("\nBag of Words Matrix Shape:")
+print("Bag of Words Matrix Shape:")
 print(bow_matrix.shape)
-print("\nNumber of Documents:")
+print("Number of Documents:")
 print(bow_matrix.shape[0])
-print("\nVocabulary Size:")
+print("Vocabulary Size:")
 print(bow_matrix.shape[1])
 
 # 8. DISPLAY VOCABULARY
 vocabulary = count_vectorizer.get_feature_names_out()
-print("\nVocabulary:")
+print("Vocabulary:")
 print(vocabulary)
-print("\nVocabulary Size:")
+print("Vocabulary Size:")
 print(len(vocabulary))
 
 # 9. CONVERT BOW MATRIX TO DATAFRAME
@@ -75,7 +75,7 @@ bow_df = pd.DataFrame(
     bow_matrix.toarray(),
     columns=vocabulary
 )
-print("\nBag of Words DataFrame:")
+print("Bag of Words DataFrame:")
 print(bow_df.head())
 
 # 10. FIND MOST FREQUENT TERMS
@@ -89,7 +89,7 @@ frequency_df = frequency_df.sort_values(
     by="frequency",
     ascending=False
 )
-print("\nTop 20 Most Frequent Terms:")
+print("Top 20 Most Frequent Terms:")
 print(frequency_df.head(20))
 
 # 11. TF-IDF USING TFIDFVECTORIZER
@@ -97,15 +97,15 @@ tfidf_vectorizer = TfidfVectorizer()
 tfidf_matrix = tfidf_vectorizer.fit_transform(
     df["clean_text"]
 )
-print("\nTF-IDF Matrix:")
+print("TF-IDF Matrix:")
 print(tfidf_matrix)
 
 # 12. CHECK TF-IDF MATRIX DIMENSIONS
-print("\nTF-IDF Matrix Shape:")
+print("TF-IDF Matrix Shape:")
 print(tfidf_matrix.shape)
-print("\nNumber of Documents:")
+print("Number of Documents:")
 print(tfidf_matrix.shape[0])
-print("\nVocabulary Size:")
+print("Vocabulary Size:")
 print(tfidf_matrix.shape[1])
 
 
@@ -113,7 +113,7 @@ print(tfidf_matrix.shape[1])
 tfidf_vocabulary = (
     tfidf_vectorizer.get_feature_names_out()
 )
-print("\nTF-IDF Vocabulary:")
+print("TF-IDF Vocabulary:")
 print(tfidf_vocabulary)
 
 # 14. CONVERT TF-IDF MATRIX TO DATAFRAME
@@ -121,7 +121,7 @@ tfidf_df = pd.DataFrame(
     tfidf_matrix.toarray(),
     columns=tfidf_vocabulary
 )
-print("\nTF-IDF DataFrame:")
+print("TF-IDF DataFrame:")
 print(tfidf_df.head())
 
 # 15. FIND HIGH TF-IDF TERMS
@@ -134,30 +134,30 @@ tfidf_terms_df = tfidf_terms_df.sort_values(
     by="tfidf_score",
     ascending=False
 )
-print("\nTop 20 High TF-IDF Terms:")
+print("Top 20 High TF-IDF Terms:")
 print(tfidf_terms_df.head(20))
 
 # 16. COMPARE BOW AND TF-IDF
-print("\nBag of Words:")
+print("Bag of Words:")
 print("Matrix Shape:", bow_matrix.shape)
 print("Vocabulary Size:", len(vocabulary))
 print("Matrix Type:", type(bow_matrix))
-print("\nTF-IDF:")
+print("TF-IDF:")
 print("Matrix Shape:", tfidf_matrix.shape)
 print("Vocabulary Size:", len(tfidf_vocabulary))
 print("Matrix Type:", type(tfidf_matrix))
 
 # 17. CHECK SPARSE MATRIX INFORMATION
-print("\nBag of Words Non-Zero Values:")
+print("Bag of Words Non-Zero Values:")
 print(bow_matrix.nnz)
-print("\nBag of Words Total Possible Values:")
+print("Bag of Words Total Possible Values:")
 print(
     bow_matrix.shape[0] *
     bow_matrix.shape[1]
 )
-print("\nTF-IDF Non-Zero Values:")
+print("TF-IDF Non-Zero Values:")
 print(tfidf_matrix.nnz)
-print("\nTF-IDF Total Possible Values:")
+print("TF-IDF Total Possible Values:")
 print(
     tfidf_matrix.shape[0] *
     tfidf_matrix.shape[1]
@@ -188,13 +188,13 @@ tfidf_sparsity = (
     tfidf_total_values
 ) * 100
 
-print("\nBag of Words Sparsity:")
+print("Bag of Words Sparsity:")
 print(round(bow_sparsity, 2), "%")
-print("\nTF-IDF Sparsity:")
+print("TF-IDF Sparsity:")
 print(round(tfidf_sparsity, 2), "%")
 
 # 19. FINAL SUMMARY
-print("\nTotal Documents:", len(df))
+print("Total Documents:", len(df))
 print("Bag of Words Vocabulary Size:",
       len(vocabulary))
 print("TF-IDF Vocabulary Size:",
