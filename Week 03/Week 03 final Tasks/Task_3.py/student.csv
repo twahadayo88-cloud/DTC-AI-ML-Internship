@@ -1,11 +1,3 @@
-Student_ID,Name,Age,Gender,Department,Semester,Marks,Attendance
-101,Ali,20,Male,Computer Science,5,85,92
-102,Ahmed,21,Male,Software Engineering,6,78,88
-103,Sara,20,Female,Computer Science,5,91,96
-104,Ayesha,22,Female,Artificial Intelligence,7,88,90
-105,Hamza,21,Male,Data Science,6,76,85
-106,Zainab,20,Female,Computer Science,5,95,98
-107,Usman,23,Male,Cyber Security,8,69,80
-108,Maryam,21,Female,Software Engineering,6,84,91
-109,Hassan,22,Male,Artificial Intelligence,7,73,82
-110,Noor,20,Female,Data Science,5,89,94
+version https://git-lfs.github.com/spec/v1
+oid sha256:05d9261044432be51e3147ee83eb1c93abef18daf7c01cb20df06145fe4e5852
+size 525

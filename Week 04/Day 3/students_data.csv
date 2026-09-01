@@ -1,16 +1,3 @@
-Name,Gender,Age,Marks,City
-Ali,Male,20,80,Lahore
-Sara,Female,,90,Karachi
-Ahmed,Male,22,,Islamabad
-Zain,Male,21,75,
-Ayesha,Female,23,88,Lahore
-Usman,Male,,70,Karachi
-Hina,Female,20,,Islamabad
-Bilal,Male,24,82,Lahore
-Fatima,Female,22,91,
-Hamza,Male,,76,Faisalabad
-Noor,Female,21,89,Lahore
-Saad,Male,23,,Karachi
-Iqra,Female,,95,Islamabad
-Danish,Male,25,78,Lahore
-Areeba,Female,22,84,
+version https://git-lfs.github.com/spec/v1
+oid sha256:f36493053276f867c63d34b0bf84f02e9d79b1b6c05d3d3ea4b17bb16f2caab0
+size 395

@@ -1,31 +1,3 @@
-Order_ID,Date,Product,Category,Quantity,Price,Sales,City
-1001,2025-01-05,Laptop,Electronics,2,80000,160000,Islamabad
-1002,2025-01-08,Mouse,Electronics,5,2000,10000,Lahore
-1003,2025-01-12,Keyboard,Electronics,3,5000,15000,Karachi
-1004,2025-01-18,Chair,Furniture,4,12000,48000,Islamabad
-1005,2025-02-02,Table,Furniture,2,25000,50000,Lahore
-1006,2025-02-06,Mobile,Electronics,3,60000,180000,Karachi
-1007,2025-02-10,Sofa,Furniture,1,70000,70000,Faisalabad
-1008,2025-02-15,Headphones,Electronics,6,4000,24000,Rawalpindi
-1009,2025-02-20,Desk,Furniture,3,15000,45000,Islamabad
-1010,2025-03-01,Printer,Electronics,2,30000,60000,Lahore
-1011,2025-03-05,Laptop,Electronics,1,80000,80000,Karachi
-1012,2025-03-09,Mouse,Electronics,8,2000,16000,Islamabad
-1013,2025-03-14,Chair,Furniture,2,12000,24000,Faisalabad
-1014,2025-03-18,Mobile,Electronics,4,60000,240000,Lahore
-1015,2025-03-22,Table,Furniture,1,25000,25000,Rawalpindi
-1016,2025-04-03,Sofa,Furniture,2,70000,140000,Karachi
-1017,2025-04-08,Headphones,Electronics,5,4000,20000,Islamabad
-1018,2025-04-12,Printer,Electronics,3,30000,90000,Lahore
-1019,2025-04-18,Desk,Furniture,4,15000,60000,Faisalabad
-1020,2025-04-25,Keyboard,Electronics,6,5000,30000,Rawalpindi
-1021,2025-05-02,Laptop,Electronics,2,80000,160000,Islamabad
-1022,2025-05-07,Chair,Furniture,3,12000,36000,Lahore
-1023,2025-05-11,Mobile,Electronics,2,60000,120000,Karachi
-1024,2025-05-16,Table,Furniture,2,25000,50000,Rawalpindi
-1025,2025-05-20,Headphones,Electronics,7,4000,28000,Faisalabad
-1026,2025-05-25,Printer,Electronics,1,30000,30000,Islamabad
-1027,2025-06-04,Desk,Furniture,5,15000,75000,Lahore
-1028,2025-06-09,Sofa,Furniture,1,70000,70000,Karachi
-1029,2025-06-15,Keyboard,Electronics,4,5000,20000,Rawalpindi
-1030,2025-06-20,Mobile,Electronics,5,60000,300000,Islamabad
+version https://git-lfs.github.com/spec/v1
+oid sha256:f57546f958ff72e9ce4a739b9bfa44399ef39554b16695041f36b064381fe82e
+size 1808
